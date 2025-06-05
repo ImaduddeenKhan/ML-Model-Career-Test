@@ -1,0 +1,1001 @@
+Student_ID,Interest_Work_Type,New_Ideas_or_Problem_Solving,Team_or_Alone,Boring_Task_Response,Logic_Q1,Verbal_Q1,Free_Time_Choice,Friend_In_Trouble,Tech_Liking,Future_Vision
+S0001,Creative,New Ideas,Teamwork,Find a fun way,Train B,Seize the chance,Photography,Avoidant,Yes,Politician
+S0002,Helping,New Ideas,Independent,Find a fun way,Train B,Seize the chance,Learn languages,Practical,Yes,Leader
+S0003,Organizing,Problem-solving,Independent,Skip it,Train A,Grab the moment,Design,Avoidant,Sometimes,Doctor
+S0004,Organizing,Problem-solving,Teamwork,Find a fun way,Train B,Seize the chance,Read,Supportive,Yes,Creator
+S0005,Technical,Problem-solving,Independent,Complete anyway,Train B,Opportunity comes often,Code,Practical,No,Scientist
+S0006,Technical,New Ideas,Independent,Complete anyway,Train B,Grab the moment,Sketch,Avoidant,Sometimes,Leader
+S0007,Creative,Problem-solving,Teamwork,Find a fun way,Train B,Opportunity comes often,Read,Avoidant,Sometimes,Designer
+S0008,Technical,Problem-solving,Independent,Skip it,Train A,Seize the chance,Blog,Avoidant,No,Creator
+S0009,Helping,Problem-solving,Teamwork,Find a fun way,Train A,Seize the chance,Design,Practical,No,Leader
+S0010,Technical,Problem-solving,Teamwork,Skip it,Train B,Grab the moment,Sketch,Supportive,No,Leader
+S0011,Helping,Problem-solving,Independent,Skip it,Train A,Opportunity comes often,Code,Practical,Yes,Athlete
+S0012,Organizing,New Ideas,Independent,Skip it,Train A,Grab the moment,Code,Practical,Yes,Entrepreneur
+S0013,Creative,Problem-solving,Independent,Skip it,Train A,Grab the moment,Watch tutorials,Supportive,Yes,Designer
+S0014,Organizing,Problem-solving,Teamwork,Complete anyway,Train B,Grab the moment,Play sports,Practical,Yes,Scientist
+S0015,Organizing,Problem-solving,Teamwork,Find a fun way,Train B,Grab the moment,Blog,Supportive,Yes,Creator
+S0016,Helping,New Ideas,Independent,Complete anyway,Train A,Seize the chance,Tinker with gadgets,Avoidant,Sometimes,Musician
+S0017,Helping,Problem-solving,Independent,Find a fun way,Train B,Opportunity comes often,Watch tutorials,Supportive,No,Teacher
+S0018,Technical,Problem-solving,Teamwork,Skip it,Train A,Opportunity comes often,Design,Avoidant,No,Scientist
+S0019,Technical,New Ideas,Independent,Complete anyway,Train B,Seize the chance,Code,Avoidant,No,Creator
+S0020,Technical,Problem-solving,Independent,Skip it,Train A,Grab the moment,Watch tutorials,Practical,Yes,Musician
+S0021,Organizing,Problem-solving,Independent,Complete anyway,Train A,Seize the chance,Learn languages,Practical,No,Designer
+S0022,Technical,New Ideas,Teamwork,Skip it,Train A,Opportunity comes often,Tinker with gadgets,Practical,No,Scientist
+S0023,Creative,Problem-solving,Independent,Find a fun way,Train A,Grab the moment,Read,Practical,Yes,Politician
+S0024,Technical,Problem-solving,Teamwork,Complete anyway,Train B,Grab the moment,Code,Practical,Yes,Musician
+S0025,Technical,Problem-solving,Teamwork,Skip it,Train B,Seize the chance,Read,Practical,No,Leader
+S0026,Helping,New Ideas,Teamwork,Complete anyway,Train B,Seize the chance,Code,Practical,Sometimes,Scientist
+S0027,Creative,New Ideas,Independent,Find a fun way,Train A,Seize the chance,Sketch,Avoidant,Yes,Journalist
+S0028,Creative,New Ideas,Independent,Skip it,Train B,Seize the chance,Learn languages,Practical,Sometimes,Artist
+S0029,Helping,New Ideas,Independent,Find a fun way,Train B,Opportunity comes often,Read,Supportive,Yes,Entrepreneur
+S0030,Helping,New Ideas,Independent,Complete anyway,Train B,Opportunity comes often,Read,Avoidant,Sometimes,Teacher
+S0031,Technical,New Ideas,Independent,Complete anyway,Train A,Seize the chance,Tinker with gadgets,Avoidant,No,Designer
+S0032,Creative,Problem-solving,Teamwork,Complete anyway,Train B,Opportunity comes often,Design,Supportive,No,Creator
+S0033,Helping,New Ideas,Independent,Find a fun way,Train B,Seize the chance,Write,Supportive,Yes,Creator
+S0034,Technical,New Ideas,Independent,Find a fun way,Train B,Opportunity comes often,Play sports,Practical,Sometimes,Analyst
+S0035,Organizing,Problem-solving,Teamwork,Skip it,Train A,Opportunity comes often,Design,Practical,Sometimes,Creator
+S0036,Creative,New Ideas,Teamwork,Skip it,Train A,Grab the moment,Design,Avoidant,Sometimes,Engineer
+S0037,Technical,Problem-solving,Teamwork,Skip it,Train B,Opportunity comes often,Code,Avoidant,Sometimes,Lawyer
+S0038,Organizing,New Ideas,Teamwork,Find a fun way,Train A,Seize the chance,Write,Avoidant,No,Athlete
+S0039,Helping,Problem-solving,Teamwork,Complete anyway,Train B,Seize the chance,Learn languages,Practical,Sometimes,Athlete
+S0040,Organizing,Problem-solving,Independent,Complete anyway,Train B,Opportunity comes often,Code,Supportive,Sometimes,Engineer
+S0041,Helping,Problem-solving,Independent,Skip it,Train B,Seize the chance,Write,Avoidant,Sometimes,Politician
+S0042,Technical,New Ideas,Independent,Find a fun way,Train B,Grab the moment,Design,Supportive,Yes,Creator
+S0043,Organizing,Problem-solving,Teamwork,Skip it,Train B,Grab the moment,Photography,Practical,Sometimes,Lawyer
+S0044,Helping,Problem-solving,Teamwork,Complete anyway,Train B,Grab the moment,Code,Practical,No,Teacher
+S0045,Creative,Problem-solving,Independent,Skip it,Train A,Grab the moment,Blog,Avoidant,No,Creator
+S0046,Technical,Problem-solving,Teamwork,Skip it,Train B,Opportunity comes often,Design,Supportive,Yes,Entrepreneur
+S0047,Technical,New Ideas,Independent,Skip it,Train A,Grab the moment,Watch tutorials,Practical,Sometimes,Lawyer
+S0048,Creative,New Ideas,Teamwork,Find a fun way,Train A,Opportunity comes often,Code,Practical,No,Creator
+S0049,Helping,Problem-solving,Teamwork,Complete anyway,Train B,Grab the moment,Photography,Avoidant,No,Leader
+S0050,Creative,Problem-solving,Teamwork,Skip it,Train B,Seize the chance,Learn languages,Supportive,No,Athlete
+S0051,Technical,New Ideas,Independent,Find a fun way,Train B,Seize the chance,Design,Supportive,Sometimes,Lawyer
+S0052,Creative,Problem-solving,Independent,Find a fun way,Train A,Opportunity comes often,Read,Supportive,Sometimes,Musician
+S0053,Technical,New Ideas,Teamwork,Find a fun way,Train B,Seize the chance,Design,Avoidant,No,Creator
+S0054,Helping,New Ideas,Teamwork,Find a fun way,Train B,Seize the chance,Learn languages,Supportive,No,Scientist
+S0055,Technical,Problem-solving,Teamwork,Skip it,Train B,Grab the moment,Design,Supportive,No,Athlete
+S0056,Organizing,Problem-solving,Independent,Find a fun way,Train A,Opportunity comes often,Code,Supportive,Yes,Creator
+S0057,Helping,Problem-solving,Independent,Skip it,Train B,Opportunity comes often,Play sports,Practical,Yes,Artist
+S0058,Technical,New Ideas,Independent,Complete anyway,Train B,Grab the moment,Code,Supportive,Sometimes,Musician
+S0059,Organizing,New Ideas,Independent,Complete anyway,Train B,Grab the moment,Sketch,Avoidant,No,Creator
+S0060,Technical,New Ideas,Independent,Skip it,Train A,Opportunity comes often,Play sports,Practical,No,Doctor
+S0061,Organizing,New Ideas,Independent,Find a fun way,Train A,Seize the chance,Photography,Supportive,No,Doctor
+S0062,Organizing,Problem-solving,Independent,Complete anyway,Train A,Grab the moment,Read,Avoidant,Yes,Analyst
+S0063,Technical,Problem-solving,Independent,Complete anyway,Train B,Grab the moment,Sketch,Supportive,No,Designer
+S0064,Technical,Problem-solving,Teamwork,Find a fun way,Train B,Seize the chance,Play sports,Supportive,Sometimes,Musician
+S0065,Technical,Problem-solving,Independent,Find a fun way,Train B,Grab the moment,Design,Practical,Yes,Journalist
+S0066,Creative,New Ideas,Teamwork,Skip it,Train B,Opportunity comes often,Write,Supportive,No,Analyst
+S0067,Organizing,Problem-solving,Independent,Find a fun way,Train B,Opportunity comes often,Blog,Practical,No,Athlete
+S0068,Technical,Problem-solving,Teamwork,Skip it,Train B,Grab the moment,Blog,Avoidant,Yes,Artist
+S0069,Organizing,Problem-solving,Independent,Complete anyway,Train A,Opportunity comes often,Sketch,Practical,No,Journalist
+S0070,Helping,Problem-solving,Independent,Complete anyway,Train A,Opportunity comes often,Code,Practical,Sometimes,Athlete
+S0071,Technical,Problem-solving,Independent,Complete anyway,Train A,Seize the chance,Blog,Avoidant,Sometimes,Politician
+S0072,Technical,Problem-solving,Teamwork,Complete anyway,Train B,Opportunity comes often,Watch tutorials,Practical,Yes,Doctor
+S0073,Technical,New Ideas,Independent,Skip it,Train B,Seize the chance,Code,Avoidant,Yes,Entrepreneur
+S0074,Technical,Problem-solving,Teamwork,Complete anyway,Train B,Grab the moment,Code,Avoidant,No,Lawyer
+S0075,Organizing,New Ideas,Independent,Find a fun way,Train A,Opportunity comes often,Blog,Practical,Yes,Athlete
+S0076,Creative,Problem-solving,Teamwork,Complete anyway,Train A,Seize the chance,Read,Practical,Yes,Teacher
+S0077,Helping,Problem-solving,Independent,Find a fun way,Train B,Grab the moment,Play sports,Avoidant,Yes,Engineer
+S0078,Organizing,Problem-solving,Independent,Find a fun way,Train B,Seize the chance,Blog,Practical,Yes,Analyst
+S0079,Technical,Problem-solving,Teamwork,Find a fun way,Train B,Seize the chance,Watch tutorials,Practical,Yes,Engineer
+S0080,Technical,New Ideas,Teamwork,Complete anyway,Train B,Seize the chance,Code,Practical,No,Musician
+S0081,Helping,Problem-solving,Independent,Find a fun way,Train A,Seize the chance,Blog,Supportive,No,Scientist
+S0082,Technical,Problem-solving,Teamwork,Find a fun way,Train A,Seize the chance,Design,Supportive,Yes,Analyst
+S0083,Creative,Problem-solving,Teamwork,Find a fun way,Train A,Seize the chance,Play sports,Avoidant,No,Doctor
+S0084,Helping,Problem-solving,Independent,Find a fun way,Train B,Opportunity comes often,Watch tutorials,Supportive,No,Entrepreneur
+S0085,Helping,Problem-solving,Independent,Find a fun way,Train A,Opportunity comes often,Learn languages,Practical,Yes,Designer
+S0086,Creative,Problem-solving,Teamwork,Skip it,Train B,Grab the moment,Write,Avoidant,Yes,Engineer
+S0087,Organizing,New Ideas,Independent,Complete anyway,Train B,Grab the moment,Write,Supportive,Sometimes,Politician
+S0088,Technical,New Ideas,Independent,Find a fun way,Train B,Grab the moment,Tinker with gadgets,Avoidant,No,Designer
+S0089,Creative,New Ideas,Independent,Skip it,Train A,Grab the moment,Photography,Avoidant,Yes,Teacher
+S0090,Helping,New Ideas,Teamwork,Find a fun way,Train B,Opportunity comes often,Blog,Practical,Yes,Athlete
+S0091,Technical,Problem-solving,Teamwork,Skip it,Train B,Opportunity comes often,Watch tutorials,Supportive,No,Musician
+S0092,Creative,Problem-solving,Teamwork,Complete anyway,Train B,Opportunity comes often,Design,Practical,Sometimes,Athlete
+S0093,Creative,New Ideas,Independent,Skip it,Train B,Seize the chance,Blog,Avoidant,Yes,Athlete
+S0094,Helping,Problem-solving,Teamwork,Find a fun way,Train A,Seize the chance,Design,Supportive,Yes,Teacher
+S0095,Technical,Problem-solving,Teamwork,Find a fun way,Train B,Grab the moment,Tinker with gadgets,Supportive,Sometimes,Designer
+S0096,Creative,New Ideas,Teamwork,Complete anyway,Train B,Opportunity comes often,Design,Supportive,Yes,Lawyer
+S0097,Technical,New Ideas,Independent,Find a fun way,Train B,Seize the chance,Photography,Practical,No,Designer
+S0098,Technical,Problem-solving,Teamwork,Find a fun way,Train A,Grab the moment,Play sports,Supportive,Sometimes,Designer
+S0099,Organizing,Problem-solving,Teamwork,Find a fun way,Train B,Opportunity comes often,Play sports,Practical,No,Analyst
+S0100,Creative,Problem-solving,Independent,Complete anyway,Train B,Opportunity comes often,Read,Avoidant,No,Lawyer
+S0101,Organizing,Problem-solving,Teamwork,Skip it,Train B,Opportunity comes often,Tinker with gadgets,Avoidant,Sometimes,Musician
+S0102,Creative,Problem-solving,Teamwork,Find a fun way,Train B,Seize the chance,Play sports,Practical,Sometimes,Creator
+S0103,Helping,Problem-solving,Teamwork,Find a fun way,Train B,Opportunity comes often,Design,Practical,No,Athlete
+S0104,Helping,Problem-solving,Independent,Skip it,Train B,Seize the chance,Code,Avoidant,Yes,Entrepreneur
+S0105,Technical,Problem-solving,Teamwork,Skip it,Train B,Opportunity comes often,Design,Avoidant,No,Athlete
+S0106,Technical,New Ideas,Teamwork,Complete anyway,Train A,Grab the moment,Learn languages,Supportive,No,Lawyer
+S0107,Helping,Problem-solving,Independent,Skip it,Train B,Opportunity comes often,Write,Practical,No,Artist
+S0108,Technical,Problem-solving,Independent,Complete anyway,Train A,Seize the chance,Photography,Practical,No,Lawyer
+S0109,Organizing,New Ideas,Independent,Skip it,Train A,Seize the chance,Watch tutorials,Avoidant,Sometimes,Musician
+S0110,Helping,Problem-solving,Independent,Complete anyway,Train B,Grab the moment,Blog,Avoidant,Sometimes,Doctor
+S0111,Creative,Problem-solving,Teamwork,Skip it,Train B,Opportunity comes often,Watch tutorials,Avoidant,Sometimes,Teacher
+S0112,Organizing,New Ideas,Independent,Find a fun way,Train A,Seize the chance,Read,Practical,No,Lawyer
+S0113,Technical,Problem-solving,Teamwork,Complete anyway,Train B,Grab the moment,Play sports,Avoidant,Yes,Teacher
+S0114,Helping,Problem-solving,Independent,Find a fun way,Train B,Grab the moment,Blog,Supportive,Sometimes,Journalist
+S0115,Organizing,New Ideas,Independent,Find a fun way,Train A,Opportunity comes often,Design,Supportive,Sometimes,Doctor
+S0116,Organizing,New Ideas,Independent,Skip it,Train A,Opportunity comes often,Play sports,Supportive,Sometimes,Teacher
+S0117,Organizing,Problem-solving,Independent,Complete anyway,Train A,Grab the moment,Read,Avoidant,Yes,Doctor
+S0118,Helping,Problem-solving,Teamwork,Find a fun way,Train B,Grab the moment,Tinker with gadgets,Avoidant,No,Journalist
+S0119,Organizing,Problem-solving,Teamwork,Complete anyway,Train A,Grab the moment,Blog,Practical,No,Teacher
+S0120,Creative,New Ideas,Independent,Skip it,Train A,Opportunity comes often,Tinker with gadgets,Supportive,Yes,Scientist
+S0121,Creative,Problem-solving,Independent,Skip it,Train A,Opportunity comes often,Sketch,Avoidant,Yes,Journalist
+S0122,Creative,Problem-solving,Teamwork,Skip it,Train A,Seize the chance,Blog,Practical,No,Leader
+S0123,Technical,New Ideas,Independent,Skip it,Train A,Opportunity comes often,Play sports,Practical,Sometimes,Engineer
+S0124,Organizing,New Ideas,Teamwork,Skip it,Train A,Seize the chance,Watch tutorials,Avoidant,Sometimes,Artist
+S0125,Helping,Problem-solving,Teamwork,Complete anyway,Train B,Seize the chance,Design,Supportive,No,Journalist
+S0126,Helping,New Ideas,Teamwork,Skip it,Train A,Opportunity comes often,Write,Avoidant,No,Lawyer
+S0127,Organizing,New Ideas,Teamwork,Skip it,Train A,Grab the moment,Blog,Avoidant,No,Doctor
+S0128,Creative,Problem-solving,Teamwork,Complete anyway,Train B,Seize the chance,Play sports,Practical,Sometimes,Creator
+S0129,Creative,Problem-solving,Independent,Skip it,Train A,Opportunity comes often,Tinker with gadgets,Practical,No,Engineer
+S0130,Technical,New Ideas,Teamwork,Skip it,Train A,Grab the moment,Code,Avoidant,Sometimes,Leader
+S0131,Technical,New Ideas,Teamwork,Find a fun way,Train B,Opportunity comes often,Code,Avoidant,No,Entrepreneur
+S0132,Technical,New Ideas,Independent,Find a fun way,Train B,Grab the moment,Photography,Practical,Yes,Doctor
+S0133,Helping,Problem-solving,Independent,Skip it,Train B,Seize the chance,Write,Supportive,Sometimes,Politician
+S0134,Helping,Problem-solving,Independent,Find a fun way,Train A,Seize the chance,Write,Practical,Yes,Politician
+S0135,Creative,Problem-solving,Teamwork,Skip it,Train A,Grab the moment,Blog,Supportive,Sometimes,Artist
+S0136,Helping,Problem-solving,Independent,Complete anyway,Train A,Opportunity comes often,Design,Supportive,Sometimes,Lawyer
+S0137,Organizing,New Ideas,Independent,Complete anyway,Train A,Seize the chance,Write,Avoidant,No,Analyst
+S0138,Creative,New Ideas,Independent,Skip it,Train B,Opportunity comes often,Write,Practical,No,Journalist
+S0139,Creative,Problem-solving,Teamwork,Find a fun way,Train B,Grab the moment,Blog,Practical,No,Artist
+S0140,Technical,Problem-solving,Teamwork,Skip it,Train B,Grab the moment,Tinker with gadgets,Practical,No,Engineer
+S0141,Technical,New Ideas,Independent,Complete anyway,Train A,Opportunity comes often,Photography,Avoidant,No,Scientist
+S0142,Organizing,New Ideas,Teamwork,Find a fun way,Train A,Opportunity comes often,Watch tutorials,Supportive,No,Entrepreneur
+S0143,Technical,New Ideas,Teamwork,Find a fun way,Train B,Opportunity comes often,Blog,Avoidant,Yes,Musician
+S0144,Helping,New Ideas,Teamwork,Complete anyway,Train A,Grab the moment,Sketch,Supportive,Yes,Creator
+S0145,Organizing,New Ideas,Independent,Complete anyway,Train A,Seize the chance,Design,Avoidant,Yes,Journalist
+S0146,Technical,Problem-solving,Teamwork,Complete anyway,Train A,Seize the chance,Photography,Supportive,Sometimes,Artist
+S0147,Creative,New Ideas,Teamwork,Skip it,Train A,Grab the moment,Learn languages,Avoidant,Yes,Creator
+S0148,Creative,Problem-solving,Teamwork,Find a fun way,Train A,Seize the chance,Tinker with gadgets,Practical,No,Politician
+S0149,Technical,New Ideas,Teamwork,Skip it,Train A,Grab the moment,Learn languages,Practical,Sometimes,Scientist
+S0150,Creative,Problem-solving,Teamwork,Find a fun way,Train B,Seize the chance,Watch tutorials,Avoidant,Sometimes,Scientist
+S0151,Technical,New Ideas,Teamwork,Find a fun way,Train A,Seize the chance,Photography,Supportive,Sometimes,Athlete
+S0152,Technical,Problem-solving,Teamwork,Skip it,Train A,Grab the moment,Tinker with gadgets,Supportive,Yes,Musician
+S0153,Helping,Problem-solving,Teamwork,Complete anyway,Train B,Seize the chance,Tinker with gadgets,Avoidant,No,Designer
+S0154,Creative,New Ideas,Independent,Find a fun way,Train A,Seize the chance,Blog,Avoidant,Yes,Lawyer
+S0155,Creative,Problem-solving,Teamwork,Skip it,Train A,Opportunity comes often,Design,Practical,No,Engineer
+S0156,Technical,Problem-solving,Independent,Skip it,Train B,Grab the moment,Write,Supportive,Sometimes,Creator
+S0157,Helping,Problem-solving,Teamwork,Find a fun way,Train A,Grab the moment,Learn languages,Avoidant,Yes,Scientist
+S0158,Technical,New Ideas,Independent,Complete anyway,Train A,Opportunity comes often,Learn languages,Supportive,Yes,Leader
+S0159,Creative,New Ideas,Teamwork,Complete anyway,Train B,Grab the moment,Sketch,Supportive,Sometimes,Artist
+S0160,Organizing,Problem-solving,Independent,Complete anyway,Train A,Seize the chance,Play sports,Avoidant,No,Analyst
+S0161,Technical,Problem-solving,Independent,Complete anyway,Train B,Opportunity comes often,Read,Supportive,Yes,Artist
+S0162,Creative,New Ideas,Teamwork,Find a fun way,Train B,Grab the moment,Sketch,Supportive,Yes,Scientist
+S0163,Organizing,New Ideas,Independent,Find a fun way,Train B,Seize the chance,Read,Supportive,No,Scientist
+S0164,Creative,Problem-solving,Teamwork,Complete anyway,Train B,Opportunity comes often,Tinker with gadgets,Avoidant,Sometimes,Creator
+S0165,Creative,New Ideas,Independent,Skip it,Train A,Grab the moment,Tinker with gadgets,Supportive,Yes,Designer
+S0166,Helping,New Ideas,Teamwork,Complete anyway,Train A,Grab the moment,Blog,Avoidant,Sometimes,Leader
+S0167,Technical,Problem-solving,Teamwork,Skip it,Train B,Opportunity comes often,Learn languages,Practical,No,Teacher
+S0168,Organizing,New Ideas,Teamwork,Skip it,Train A,Seize the chance,Watch tutorials,Practical,Yes,Musician
+S0169,Organizing,Problem-solving,Independent,Find a fun way,Train B,Seize the chance,Watch tutorials,Practical,No,Scientist
+S0170,Helping,New Ideas,Teamwork,Complete anyway,Train B,Seize the chance,Learn languages,Supportive,No,Athlete
+S0171,Helping,Problem-solving,Teamwork,Skip it,Train B,Grab the moment,Write,Avoidant,Sometimes,Politician
+S0172,Creative,New Ideas,Independent,Skip it,Train A,Opportunity comes often,Design,Practical,No,Leader
+S0173,Creative,Problem-solving,Independent,Complete anyway,Train A,Grab the moment,Watch tutorials,Supportive,No,Creator
+S0174,Helping,Problem-solving,Teamwork,Complete anyway,Train B,Opportunity comes often,Write,Supportive,No,Leader
+S0175,Technical,Problem-solving,Independent,Skip it,Train A,Opportunity comes often,Watch tutorials,Supportive,No,Doctor
+S0176,Technical,New Ideas,Independent,Find a fun way,Train B,Grab the moment,Blog,Practical,No,Analyst
+S0177,Creative,New Ideas,Independent,Skip it,Train B,Seize the chance,Sketch,Practical,Yes,Creator
+S0178,Technical,Problem-solving,Independent,Skip it,Train B,Seize the chance,Sketch,Supportive,No,Artist
+S0179,Organizing,Problem-solving,Teamwork,Complete anyway,Train A,Opportunity comes often,Blog,Practical,Yes,Creator
+S0180,Helping,New Ideas,Teamwork,Skip it,Train A,Seize the chance,Learn languages,Practical,Yes,Teacher
+S0181,Technical,New Ideas,Independent,Skip it,Train B,Opportunity comes often,Tinker with gadgets,Avoidant,Yes,Doctor
+S0182,Creative,Problem-solving,Teamwork,Skip it,Train B,Grab the moment,Sketch,Avoidant,No,Scientist
+S0183,Creative,New Ideas,Teamwork,Find a fun way,Train A,Seize the chance,Photography,Supportive,Yes,Engineer
+S0184,Technical,Problem-solving,Independent,Find a fun way,Train A,Seize the chance,Write,Avoidant,Sometimes,Musician
+S0185,Organizing,New Ideas,Independent,Find a fun way,Train B,Grab the moment,Watch tutorials,Avoidant,No,Artist
+S0186,Technical,New Ideas,Teamwork,Find a fun way,Train A,Grab the moment,Write,Practical,Sometimes,Scientist
+S0187,Creative,Problem-solving,Independent,Complete anyway,Train A,Opportunity comes often,Photography,Practical,No,Creator
+S0188,Technical,Problem-solving,Independent,Complete anyway,Train B,Grab the moment,Code,Practical,No,Entrepreneur
+S0189,Technical,New Ideas,Teamwork,Skip it,Train B,Opportunity comes often,Design,Supportive,Sometimes,Leader
+S0190,Creative,New Ideas,Teamwork,Complete anyway,Train A,Seize the chance,Photography,Supportive,Sometimes,Scientist
+S0191,Organizing,New Ideas,Teamwork,Skip it,Train A,Seize the chance,Blog,Supportive,Yes,Scientist
+S0192,Technical,Problem-solving,Teamwork,Skip it,Train B,Seize the chance,Blog,Supportive,No,Leader
+S0193,Technical,Problem-solving,Independent,Skip it,Train A,Grab the moment,Watch tutorials,Practical,Yes,Entrepreneur
+S0194,Creative,New Ideas,Teamwork,Find a fun way,Train B,Grab the moment,Blog,Supportive,No,Creator
+S0195,Helping,New Ideas,Independent,Skip it,Train A,Grab the moment,Learn languages,Supportive,Sometimes,Doctor
+S0196,Organizing,New Ideas,Independent,Find a fun way,Train B,Seize the chance,Watch tutorials,Supportive,Sometimes,Scientist
+S0197,Helping,Problem-solving,Teamwork,Complete anyway,Train B,Opportunity comes often,Learn languages,Practical,No,Musician
+S0198,Helping,Problem-solving,Independent,Find a fun way,Train A,Opportunity comes often,Sketch,Supportive,Yes,Engineer
+S0199,Creative,New Ideas,Teamwork,Skip it,Train A,Opportunity comes often,Write,Avoidant,Yes,Journalist
+S0200,Organizing,New Ideas,Teamwork,Find a fun way,Train A,Opportunity comes often,Write,Supportive,Yes,Lawyer
+S0201,Organizing,Problem-solving,Teamwork,Find a fun way,Train B,Grab the moment,Play sports,Practical,No,Lawyer
+S0202,Technical,New Ideas,Teamwork,Skip it,Train A,Grab the moment,Write,Avoidant,Sometimes,Leader
+S0203,Technical,Problem-solving,Teamwork,Skip it,Train A,Opportunity comes often,Code,Supportive,Sometimes,Artist
+S0204,Helping,New Ideas,Teamwork,Complete anyway,Train A,Seize the chance,Learn languages,Avoidant,No,Teacher
+S0205,Helping,New Ideas,Teamwork,Complete anyway,Train A,Grab the moment,Blog,Practical,Sometimes,Scientist
+S0206,Creative,Problem-solving,Teamwork,Complete anyway,Train B,Grab the moment,Tinker with gadgets,Avoidant,No,Artist
+S0207,Creative,Problem-solving,Independent,Skip it,Train A,Opportunity comes often,Blog,Avoidant,Sometimes,Designer
+S0208,Helping,Problem-solving,Independent,Find a fun way,Train B,Seize the chance,Write,Practical,Yes,Creator
+S0209,Helping,New Ideas,Teamwork,Skip it,Train A,Grab the moment,Photography,Practical,No,Politician
+S0210,Helping,Problem-solving,Independent,Complete anyway,Train A,Seize the chance,Code,Practical,Yes,Engineer
+S0211,Organizing,Problem-solving,Teamwork,Complete anyway,Train A,Opportunity comes often,Learn languages,Practical,Yes,Politician
+S0212,Creative,Problem-solving,Independent,Find a fun way,Train A,Opportunity comes often,Code,Avoidant,Sometimes,Scientist
+S0213,Technical,New Ideas,Independent,Complete anyway,Train A,Seize the chance,Learn languages,Practical,No,Scientist
+S0214,Organizing,Problem-solving,Teamwork,Find a fun way,Train A,Grab the moment,Tinker with gadgets,Practical,No,Analyst
+S0215,Technical,Problem-solving,Teamwork,Find a fun way,Train A,Grab the moment,Tinker with gadgets,Supportive,No,Artist
+S0216,Organizing,New Ideas,Independent,Skip it,Train B,Seize the chance,Tinker with gadgets,Practical,No,Doctor
+S0217,Helping,New Ideas,Teamwork,Find a fun way,Train B,Opportunity comes often,Design,Supportive,Yes,Designer
+S0218,Organizing,Problem-solving,Independent,Skip it,Train A,Opportunity comes often,Tinker with gadgets,Avoidant,No,Engineer
+S0219,Technical,New Ideas,Teamwork,Find a fun way,Train A,Opportunity comes often,Blog,Avoidant,No,Journalist
+S0220,Technical,New Ideas,Teamwork,Find a fun way,Train A,Grab the moment,Play sports,Practical,Yes,Athlete
+S0221,Organizing,New Ideas,Independent,Find a fun way,Train A,Opportunity comes often,Watch tutorials,Supportive,Yes,Athlete
+S0222,Technical,Problem-solving,Teamwork,Complete anyway,Train A,Seize the chance,Sketch,Avoidant,Sometimes,Entrepreneur
+S0223,Helping,New Ideas,Teamwork,Skip it,Train A,Opportunity comes often,Design,Avoidant,Yes,Musician
+S0224,Organizing,New Ideas,Teamwork,Skip it,Train B,Opportunity comes often,Blog,Practical,Sometimes,Athlete
+S0225,Technical,Problem-solving,Independent,Complete anyway,Train B,Grab the moment,Learn languages,Practical,Sometimes,Politician
+S0226,Technical,New Ideas,Teamwork,Complete anyway,Train B,Opportunity comes often,Write,Supportive,Sometimes,Politician
+S0227,Creative,New Ideas,Teamwork,Skip it,Train A,Opportunity comes often,Write,Supportive,Sometimes,Journalist
+S0228,Helping,New Ideas,Teamwork,Skip it,Train B,Seize the chance,Read,Avoidant,Yes,Doctor
+S0229,Technical,Problem-solving,Independent,Skip it,Train A,Opportunity comes often,Tinker with gadgets,Avoidant,No,Scientist
+S0230,Helping,Problem-solving,Teamwork,Find a fun way,Train B,Opportunity comes often,Photography,Avoidant,Sometimes,Analyst
+S0231,Technical,New Ideas,Teamwork,Skip it,Train B,Grab the moment,Learn languages,Practical,Yes,Athlete
+S0232,Helping,Problem-solving,Teamwork,Find a fun way,Train B,Seize the chance,Design,Practical,No,Artist
+S0233,Helping,Problem-solving,Independent,Skip it,Train A,Grab the moment,Learn languages,Supportive,Yes,Leader
+S0234,Organizing,New Ideas,Teamwork,Skip it,Train A,Seize the chance,Design,Avoidant,Sometimes,Engineer
+S0235,Creative,Problem-solving,Independent,Complete anyway,Train B,Seize the chance,Sketch,Avoidant,Sometimes,Journalist
+S0236,Helping,New Ideas,Teamwork,Find a fun way,Train B,Seize the chance,Play sports,Avoidant,Sometimes,Journalist
+S0237,Creative,New Ideas,Teamwork,Find a fun way,Train B,Seize the chance,Write,Avoidant,Yes,Artist
+S0238,Helping,Problem-solving,Independent,Skip it,Train A,Seize the chance,Watch tutorials,Practical,Yes,Athlete
+S0239,Creative,Problem-solving,Teamwork,Complete anyway,Train B,Opportunity comes often,Blog,Practical,Sometimes,Designer
+S0240,Technical,New Ideas,Teamwork,Skip it,Train A,Grab the moment,Tinker with gadgets,Practical,Sometimes,Leader
+S0241,Creative,Problem-solving,Teamwork,Find a fun way,Train A,Seize the chance,Sketch,Practical,Sometimes,Designer
+S0242,Technical,New Ideas,Teamwork,Complete anyway,Train B,Opportunity comes often,Learn languages,Supportive,Yes,Engineer
+S0243,Organizing,New Ideas,Independent,Skip it,Train A,Opportunity comes often,Play sports,Avoidant,Yes,Analyst
+S0244,Helping,Problem-solving,Teamwork,Complete anyway,Train A,Opportunity comes often,Blog,Avoidant,Yes,Designer
+S0245,Helping,Problem-solving,Independent,Find a fun way,Train A,Grab the moment,Watch tutorials,Supportive,Yes,Politician
+S0246,Technical,New Ideas,Independent,Find a fun way,Train A,Opportunity comes often,Code,Supportive,Yes,Scientist
+S0247,Organizing,New Ideas,Independent,Skip it,Train B,Opportunity comes often,Learn languages,Supportive,Sometimes,Lawyer
+S0248,Organizing,New Ideas,Independent,Find a fun way,Train B,Opportunity comes often,Learn languages,Supportive,Yes,Artist
+S0249,Technical,Problem-solving,Independent,Skip it,Train B,Grab the moment,Play sports,Practical,No,Musician
+S0250,Organizing,Problem-solving,Teamwork,Skip it,Train B,Grab the moment,Photography,Avoidant,Yes,Designer
+S0251,Technical,Problem-solving,Teamwork,Find a fun way,Train B,Grab the moment,Tinker with gadgets,Supportive,Yes,Doctor
+S0252,Organizing,Problem-solving,Independent,Complete anyway,Train B,Opportunity comes often,Sketch,Practical,Yes,Athlete
+S0253,Organizing,Problem-solving,Independent,Find a fun way,Train A,Opportunity comes often,Play sports,Supportive,Sometimes,Athlete
+S0254,Technical,New Ideas,Independent,Skip it,Train B,Grab the moment,Learn languages,Avoidant,Sometimes,Doctor
+S0255,Technical,Problem-solving,Teamwork,Find a fun way,Train A,Grab the moment,Sketch,Supportive,Yes,Creator
+S0256,Creative,Problem-solving,Teamwork,Complete anyway,Train A,Opportunity comes often,Photography,Avoidant,Yes,Leader
+S0257,Organizing,New Ideas,Teamwork,Complete anyway,Train A,Opportunity comes often,Blog,Supportive,No,Creator
+S0258,Creative,New Ideas,Independent,Complete anyway,Train A,Seize the chance,Watch tutorials,Practical,Sometimes,Lawyer
+S0259,Organizing,Problem-solving,Teamwork,Complete anyway,Train A,Grab the moment,Tinker with gadgets,Avoidant,Sometimes,Musician
+S0260,Technical,New Ideas,Teamwork,Skip it,Train A,Grab the moment,Blog,Avoidant,Yes,Journalist
+S0261,Creative,Problem-solving,Independent,Find a fun way,Train B,Seize the chance,Write,Avoidant,Sometimes,Musician
+S0262,Organizing,Problem-solving,Teamwork,Skip it,Train B,Opportunity comes often,Write,Avoidant,Sometimes,Scientist
+S0263,Organizing,New Ideas,Teamwork,Complete anyway,Train B,Grab the moment,Tinker with gadgets,Supportive,Sometimes,Entrepreneur
+S0264,Technical,New Ideas,Independent,Complete anyway,Train A,Grab the moment,Learn languages,Supportive,No,Teacher
+S0265,Helping,Problem-solving,Independent,Complete anyway,Train B,Opportunity comes often,Tinker with gadgets,Avoidant,Sometimes,Artist
+S0266,Creative,New Ideas,Independent,Find a fun way,Train B,Opportunity comes often,Write,Practical,Yes,Entrepreneur
+S0267,Organizing,New Ideas,Teamwork,Skip it,Train B,Seize the chance,Play sports,Avoidant,No,Analyst
+S0268,Helping,New Ideas,Independent,Complete anyway,Train B,Opportunity comes often,Photography,Practical,No,Analyst
+S0269,Creative,New Ideas,Teamwork,Find a fun way,Train B,Opportunity comes often,Read,Supportive,Yes,Entrepreneur
+S0270,Creative,Problem-solving,Teamwork,Skip it,Train B,Opportunity comes often,Photography,Supportive,Yes,Musician
+S0271,Organizing,New Ideas,Independent,Skip it,Train A,Opportunity comes often,Learn languages,Supportive,Sometimes,Creator
+S0272,Creative,Problem-solving,Independent,Skip it,Train B,Seize the chance,Watch tutorials,Avoidant,Yes,Artist
+S0273,Organizing,New Ideas,Independent,Skip it,Train B,Opportunity comes often,Play sports,Practical,No,Leader
+S0274,Helping,Problem-solving,Independent,Find a fun way,Train B,Opportunity comes often,Photography,Practical,Yes,Entrepreneur
+S0275,Helping,Problem-solving,Independent,Skip it,Train B,Seize the chance,Sketch,Practical,Yes,Creator
+S0276,Technical,Problem-solving,Independent,Find a fun way,Train A,Opportunity comes often,Tinker with gadgets,Practical,Yes,Scientist
+S0277,Technical,Problem-solving,Independent,Complete anyway,Train B,Seize the chance,Design,Avoidant,Sometimes,Entrepreneur
+S0278,Helping,New Ideas,Independent,Find a fun way,Train B,Opportunity comes often,Photography,Practical,No,Designer
+S0279,Helping,New Ideas,Independent,Complete anyway,Train B,Seize the chance,Write,Practical,No,Engineer
+S0280,Technical,New Ideas,Teamwork,Complete anyway,Train B,Opportunity comes often,Design,Supportive,Sometimes,Engineer
+S0281,Creative,New Ideas,Independent,Find a fun way,Train B,Opportunity comes often,Read,Supportive,No,Lawyer
+S0282,Organizing,New Ideas,Independent,Find a fun way,Train A,Opportunity comes often,Learn languages,Practical,Yes,Journalist
+S0283,Organizing,Problem-solving,Independent,Skip it,Train A,Opportunity comes often,Design,Practical,Sometimes,Journalist
+S0284,Helping,Problem-solving,Independent,Complete anyway,Train B,Opportunity comes often,Tinker with gadgets,Supportive,Yes,Creator
+S0285,Organizing,New Ideas,Teamwork,Skip it,Train A,Opportunity comes often,Sketch,Avoidant,Sometimes,Artist
+S0286,Creative,Problem-solving,Independent,Complete anyway,Train A,Seize the chance,Blog,Avoidant,Sometimes,Analyst
+S0287,Technical,New Ideas,Teamwork,Find a fun way,Train A,Grab the moment,Watch tutorials,Supportive,Yes,Journalist
+S0288,Technical,Problem-solving,Independent,Find a fun way,Train B,Opportunity comes often,Sketch,Practical,No,Teacher
+S0289,Technical,Problem-solving,Teamwork,Skip it,Train A,Seize the chance,Design,Supportive,Sometimes,Politician
+S0290,Helping,Problem-solving,Independent,Complete anyway,Train A,Seize the chance,Sketch,Practical,Yes,Athlete
+S0291,Organizing,Problem-solving,Teamwork,Complete anyway,Train B,Grab the moment,Photography,Avoidant,No,Musician
+S0292,Creative,Problem-solving,Independent,Find a fun way,Train A,Grab the moment,Read,Avoidant,No,Creator
+S0293,Creative,Problem-solving,Teamwork,Find a fun way,Train A,Seize the chance,Play sports,Avoidant,Yes,Scientist
+S0294,Helping,Problem-solving,Independent,Find a fun way,Train A,Seize the chance,Write,Supportive,Yes,Musician
+S0295,Organizing,Problem-solving,Independent,Complete anyway,Train B,Opportunity comes often,Tinker with gadgets,Supportive,Yes,Entrepreneur
+S0296,Creative,Problem-solving,Independent,Find a fun way,Train B,Grab the moment,Tinker with gadgets,Avoidant,No,Musician
+S0297,Technical,New Ideas,Independent,Find a fun way,Train B,Seize the chance,Read,Avoidant,No,Politician
+S0298,Helping,Problem-solving,Teamwork,Complete anyway,Train B,Seize the chance,Blog,Practical,No,Engineer
+S0299,Creative,New Ideas,Teamwork,Find a fun way,Train A,Opportunity comes often,Sketch,Practical,Sometimes,Doctor
+S0300,Technical,Problem-solving,Teamwork,Complete anyway,Train B,Opportunity comes often,Blog,Supportive,Yes,Artist
+S0301,Organizing,New Ideas,Teamwork,Complete anyway,Train B,Seize the chance,Write,Avoidant,Sometimes,Politician
+S0302,Organizing,New Ideas,Teamwork,Complete anyway,Train B,Grab the moment,Code,Practical,Sometimes,Leader
+S0303,Technical,New Ideas,Independent,Skip it,Train A,Opportunity comes often,Play sports,Avoidant,No,Entrepreneur
+S0304,Organizing,Problem-solving,Independent,Complete anyway,Train B,Grab the moment,Write,Practical,Yes,Creator
+S0305,Organizing,New Ideas,Independent,Skip it,Train A,Grab the moment,Code,Avoidant,Yes,Doctor
+S0306,Helping,New Ideas,Teamwork,Skip it,Train B,Grab the moment,Code,Supportive,No,Scientist
+S0307,Helping,Problem-solving,Independent,Find a fun way,Train B,Opportunity comes often,Code,Supportive,Sometimes,Musician
+S0308,Organizing,New Ideas,Independent,Skip it,Train B,Seize the chance,Sketch,Avoidant,No,Teacher
+S0309,Creative,New Ideas,Independent,Skip it,Train A,Seize the chance,Photography,Supportive,No,Leader
+S0310,Organizing,New Ideas,Teamwork,Find a fun way,Train A,Opportunity comes often,Sketch,Supportive,Yes,Creator
+S0311,Creative,Problem-solving,Independent,Find a fun way,Train B,Seize the chance,Watch tutorials,Practical,Yes,Lawyer
+S0312,Technical,New Ideas,Independent,Skip it,Train A,Grab the moment,Play sports,Practical,No,Musician
+S0313,Helping,Problem-solving,Independent,Find a fun way,Train B,Seize the chance,Code,Avoidant,Sometimes,Analyst
+S0314,Technical,Problem-solving,Teamwork,Complete anyway,Train B,Grab the moment,Read,Practical,Sometimes,Musician
+S0315,Creative,Problem-solving,Teamwork,Skip it,Train A,Seize the chance,Play sports,Supportive,Yes,Scientist
+S0316,Organizing,Problem-solving,Teamwork,Find a fun way,Train B,Grab the moment,Code,Practical,Sometimes,Athlete
+S0317,Creative,Problem-solving,Independent,Find a fun way,Train A,Opportunity comes often,Write,Supportive,No,Athlete
+S0318,Technical,New Ideas,Teamwork,Skip it,Train A,Grab the moment,Learn languages,Avoidant,Yes,Athlete
+S0319,Organizing,Problem-solving,Independent,Complete anyway,Train A,Grab the moment,Blog,Avoidant,Sometimes,Lawyer
+S0320,Helping,Problem-solving,Teamwork,Complete anyway,Train A,Opportunity comes often,Learn languages,Avoidant,Sometimes,Politician
+S0321,Technical,New Ideas,Independent,Find a fun way,Train B,Opportunity comes often,Learn languages,Avoidant,Yes,Teacher
+S0322,Creative,New Ideas,Teamwork,Complete anyway,Train B,Seize the chance,Design,Practical,Yes,Lawyer
+S0323,Helping,New Ideas,Teamwork,Find a fun way,Train A,Seize the chance,Write,Practical,Sometimes,Artist
+S0324,Creative,Problem-solving,Teamwork,Complete anyway,Train B,Grab the moment,Sketch,Practical,Sometimes,Analyst
+S0325,Helping,New Ideas,Teamwork,Skip it,Train B,Opportunity comes often,Write,Supportive,Sometimes,Journalist
+S0326,Helping,Problem-solving,Independent,Find a fun way,Train A,Seize the chance,Tinker with gadgets,Supportive,Yes,Leader
+S0327,Helping,New Ideas,Teamwork,Complete anyway,Train B,Opportunity comes often,Watch tutorials,Practical,Yes,Scientist
+S0328,Organizing,Problem-solving,Independent,Skip it,Train B,Opportunity comes often,Photography,Avoidant,Yes,Doctor
+S0329,Helping,Problem-solving,Independent,Complete anyway,Train A,Grab the moment,Watch tutorials,Practical,No,Analyst
+S0330,Technical,New Ideas,Teamwork,Complete anyway,Train A,Grab the moment,Watch tutorials,Avoidant,No,Journalist
+S0331,Technical,New Ideas,Teamwork,Find a fun way,Train B,Opportunity comes often,Play sports,Supportive,Yes,Athlete
+S0332,Creative,Problem-solving,Teamwork,Find a fun way,Train B,Grab the moment,Play sports,Avoidant,No,Engineer
+S0333,Technical,New Ideas,Teamwork,Skip it,Train B,Grab the moment,Design,Avoidant,No,Analyst
+S0334,Organizing,Problem-solving,Independent,Find a fun way,Train A,Grab the moment,Code,Supportive,No,Lawyer
+S0335,Technical,New Ideas,Independent,Find a fun way,Train B,Opportunity comes often,Sketch,Supportive,Sometimes,Creator
+S0336,Technical,Problem-solving,Teamwork,Skip it,Train A,Seize the chance,Code,Supportive,Sometimes,Engineer
+S0337,Organizing,Problem-solving,Teamwork,Complete anyway,Train A,Seize the chance,Play sports,Avoidant,Sometimes,Teacher
+S0338,Helping,New Ideas,Independent,Complete anyway,Train A,Seize the chance,Write,Practical,Sometimes,Teacher
+S0339,Creative,New Ideas,Teamwork,Skip it,Train A,Seize the chance,Play sports,Supportive,No,Leader
+S0340,Creative,Problem-solving,Independent,Find a fun way,Train A,Opportunity comes often,Learn languages,Practical,No,Artist
+S0341,Creative,New Ideas,Teamwork,Skip it,Train A,Seize the chance,Tinker with gadgets,Avoidant,No,Doctor
+S0342,Helping,Problem-solving,Teamwork,Skip it,Train A,Seize the chance,Play sports,Practical,Yes,Athlete
+S0343,Technical,Problem-solving,Teamwork,Skip it,Train A,Seize the chance,Blog,Supportive,Sometimes,Doctor
+S0344,Organizing,Problem-solving,Teamwork,Complete anyway,Train A,Seize the chance,Code,Avoidant,Sometimes,Analyst
+S0345,Organizing,New Ideas,Independent,Find a fun way,Train B,Seize the chance,Write,Supportive,Yes,Leader
+S0346,Technical,Problem-solving,Teamwork,Complete anyway,Train A,Seize the chance,Design,Practical,No,Lawyer
+S0347,Technical,Problem-solving,Independent,Skip it,Train A,Grab the moment,Design,Practical,Sometimes,Journalist
+S0348,Organizing,New Ideas,Independent,Find a fun way,Train A,Seize the chance,Read,Avoidant,Yes,Entrepreneur
+S0349,Technical,Problem-solving,Teamwork,Skip it,Train A,Grab the moment,Blog,Supportive,No,Athlete
+S0350,Helping,Problem-solving,Independent,Complete anyway,Train B,Seize the chance,Blog,Avoidant,No,Politician
+S0351,Organizing,Problem-solving,Teamwork,Find a fun way,Train A,Grab the moment,Tinker with gadgets,Avoidant,Sometimes,Teacher
+S0352,Technical,New Ideas,Independent,Skip it,Train A,Grab the moment,Tinker with gadgets,Supportive,No,Lawyer
+S0353,Technical,Problem-solving,Independent,Find a fun way,Train A,Grab the moment,Sketch,Avoidant,Yes,Athlete
+S0354,Technical,New Ideas,Independent,Find a fun way,Train A,Seize the chance,Read,Avoidant,No,Journalist
+S0355,Technical,New Ideas,Independent,Skip it,Train B,Seize the chance,Blog,Practical,No,Leader
+S0356,Organizing,Problem-solving,Teamwork,Complete anyway,Train B,Seize the chance,Write,Supportive,Sometimes,Entrepreneur
+S0357,Organizing,Problem-solving,Independent,Find a fun way,Train A,Seize the chance,Watch tutorials,Supportive,No,Designer
+S0358,Technical,Problem-solving,Teamwork,Find a fun way,Train A,Opportunity comes often,Learn languages,Avoidant,Yes,Teacher
+S0359,Creative,New Ideas,Independent,Find a fun way,Train A,Opportunity comes often,Design,Supportive,Yes,Analyst
+S0360,Organizing,New Ideas,Independent,Find a fun way,Train B,Opportunity comes often,Watch tutorials,Avoidant,Sometimes,Engineer
+S0361,Technical,New Ideas,Independent,Find a fun way,Train B,Grab the moment,Photography,Avoidant,Yes,Athlete
+S0362,Organizing,Problem-solving,Independent,Find a fun way,Train B,Opportunity comes often,Code,Avoidant,No,Lawyer
+S0363,Helping,New Ideas,Teamwork,Skip it,Train A,Opportunity comes often,Play sports,Avoidant,Yes,Lawyer
+S0364,Technical,Problem-solving,Independent,Skip it,Train B,Opportunity comes often,Tinker with gadgets,Avoidant,Sometimes,Analyst
+S0365,Technical,New Ideas,Independent,Skip it,Train A,Seize the chance,Learn languages,Supportive,Yes,Analyst
+S0366,Organizing,New Ideas,Teamwork,Skip it,Train A,Seize the chance,Sketch,Supportive,Yes,Engineer
+S0367,Organizing,New Ideas,Independent,Skip it,Train A,Opportunity comes often,Sketch,Avoidant,Sometimes,Entrepreneur
+S0368,Organizing,Problem-solving,Teamwork,Skip it,Train B,Grab the moment,Play sports,Supportive,Sometimes,Entrepreneur
+S0369,Creative,New Ideas,Independent,Skip it,Train A,Seize the chance,Tinker with gadgets,Practical,Sometimes,Leader
+S0370,Helping,Problem-solving,Teamwork,Skip it,Train A,Grab the moment,Design,Practical,Sometimes,Teacher
+S0371,Helping,New Ideas,Teamwork,Complete anyway,Train A,Opportunity comes often,Play sports,Supportive,Sometimes,Lawyer
+S0372,Creative,Problem-solving,Teamwork,Complete anyway,Train B,Seize the chance,Design,Avoidant,Yes,Athlete
+S0373,Helping,New Ideas,Independent,Find a fun way,Train A,Seize the chance,Write,Avoidant,Sometimes,Scientist
+S0374,Helping,Problem-solving,Teamwork,Skip it,Train B,Opportunity comes often,Tinker with gadgets,Avoidant,Yes,Designer
+S0375,Organizing,Problem-solving,Teamwork,Skip it,Train B,Seize the chance,Design,Supportive,Sometimes,Entrepreneur
+S0376,Organizing,New Ideas,Independent,Complete anyway,Train B,Grab the moment,Blog,Practical,Yes,Analyst
+S0377,Creative,New Ideas,Teamwork,Skip it,Train A,Grab the moment,Play sports,Avoidant,Yes,Lawyer
+S0378,Organizing,Problem-solving,Independent,Complete anyway,Train A,Opportunity comes often,Read,Supportive,Yes,Engineer
+S0379,Technical,Problem-solving,Independent,Skip it,Train B,Opportunity comes often,Photography,Supportive,No,Leader
+S0380,Helping,Problem-solving,Independent,Find a fun way,Train A,Grab the moment,Play sports,Supportive,No,Musician
+S0381,Technical,New Ideas,Independent,Find a fun way,Train A,Opportunity comes often,Write,Practical,Sometimes,Entrepreneur
+S0382,Technical,Problem-solving,Teamwork,Find a fun way,Train B,Opportunity comes often,Play sports,Supportive,Sometimes,Analyst
+S0383,Helping,Problem-solving,Independent,Find a fun way,Train A,Opportunity comes often,Design,Practical,Sometimes,Artist
+S0384,Organizing,New Ideas,Independent,Find a fun way,Train A,Seize the chance,Play sports,Avoidant,Sometimes,Designer
+S0385,Organizing,Problem-solving,Independent,Find a fun way,Train A,Grab the moment,Watch tutorials,Avoidant,No,Analyst
+S0386,Creative,Problem-solving,Teamwork,Complete anyway,Train A,Grab the moment,Tinker with gadgets,Practical,No,Teacher
+S0387,Technical,New Ideas,Teamwork,Complete anyway,Train B,Seize the chance,Code,Supportive,Yes,Lawyer
+S0388,Organizing,New Ideas,Teamwork,Find a fun way,Train A,Opportunity comes often,Design,Supportive,No,Artist
+S0389,Organizing,New Ideas,Teamwork,Skip it,Train A,Seize the chance,Blog,Supportive,Yes,Scientist
+S0390,Creative,Problem-solving,Teamwork,Complete anyway,Train B,Opportunity comes often,Watch tutorials,Supportive,Sometimes,Leader
+S0391,Technical,Problem-solving,Teamwork,Skip it,Train A,Opportunity comes often,Photography,Practical,Sometimes,Entrepreneur
+S0392,Creative,New Ideas,Independent,Complete anyway,Train B,Seize the chance,Tinker with gadgets,Avoidant,No,Engineer
+S0393,Creative,Problem-solving,Independent,Skip it,Train B,Opportunity comes often,Photography,Practical,Yes,Entrepreneur
+S0394,Organizing,New Ideas,Teamwork,Skip it,Train A,Seize the chance,Write,Avoidant,Sometimes,Artist
+S0395,Technical,Problem-solving,Teamwork,Complete anyway,Train B,Grab the moment,Photography,Supportive,Sometimes,Teacher
+S0396,Technical,New Ideas,Independent,Find a fun way,Train A,Seize the chance,Photography,Practical,Yes,Leader
+S0397,Organizing,New Ideas,Teamwork,Find a fun way,Train B,Grab the moment,Sketch,Avoidant,Yes,Teacher
+S0398,Technical,New Ideas,Teamwork,Complete anyway,Train A,Seize the chance,Play sports,Practical,Yes,Designer
+S0399,Technical,New Ideas,Independent,Skip it,Train A,Seize the chance,Write,Practical,Yes,Designer
+S0400,Creative,New Ideas,Teamwork,Skip it,Train A,Grab the moment,Code,Avoidant,Sometimes,Leader
+S0401,Technical,Problem-solving,Teamwork,Find a fun way,Train B,Seize the chance,Code,Supportive,Sometimes,Designer
+S0402,Technical,Problem-solving,Teamwork,Complete anyway,Train A,Opportunity comes often,Photography,Supportive,Sometimes,Lawyer
+S0403,Technical,Problem-solving,Independent,Complete anyway,Train B,Seize the chance,Read,Practical,Sometimes,Analyst
+S0404,Organizing,New Ideas,Independent,Skip it,Train B,Opportunity comes often,Watch tutorials,Practical,Sometimes,Leader
+S0405,Creative,New Ideas,Independent,Complete anyway,Train B,Opportunity comes often,Sketch,Practical,No,Designer
+S0406,Technical,New Ideas,Independent,Find a fun way,Train A,Opportunity comes often,Photography,Avoidant,No,Engineer
+S0407,Creative,Problem-solving,Independent,Find a fun way,Train A,Grab the moment,Learn languages,Avoidant,Sometimes,Leader
+S0408,Creative,Problem-solving,Teamwork,Skip it,Train B,Opportunity comes often,Tinker with gadgets,Avoidant,Yes,Scientist
+S0409,Helping,Problem-solving,Teamwork,Complete anyway,Train A,Grab the moment,Blog,Practical,Sometimes,Entrepreneur
+S0410,Creative,Problem-solving,Teamwork,Complete anyway,Train A,Grab the moment,Play sports,Avoidant,No,Analyst
+S0411,Organizing,New Ideas,Teamwork,Complete anyway,Train B,Grab the moment,Design,Avoidant,No,Musician
+S0412,Helping,New Ideas,Independent,Skip it,Train A,Grab the moment,Sketch,Practical,Sometimes,Designer
+S0413,Organizing,Problem-solving,Independent,Skip it,Train B,Grab the moment,Watch tutorials,Practical,Yes,Lawyer
+S0414,Creative,Problem-solving,Teamwork,Find a fun way,Train A,Grab the moment,Blog,Supportive,Sometimes,Designer
+S0415,Technical,Problem-solving,Teamwork,Skip it,Train A,Grab the moment,Tinker with gadgets,Avoidant,No,Analyst
+S0416,Helping,Problem-solving,Independent,Complete anyway,Train A,Seize the chance,Code,Practical,Sometimes,Leader
+S0417,Technical,New Ideas,Teamwork,Complete anyway,Train A,Opportunity comes often,Watch tutorials,Practical,Yes,Musician
+S0418,Creative,New Ideas,Independent,Complete anyway,Train A,Grab the moment,Play sports,Practical,Sometimes,Athlete
+S0419,Organizing,Problem-solving,Teamwork,Complete anyway,Train B,Seize the chance,Write,Practical,Yes,Artist
+S0420,Creative,New Ideas,Independent,Find a fun way,Train A,Grab the moment,Tinker with gadgets,Avoidant,Yes,Artist
+S0421,Technical,New Ideas,Independent,Skip it,Train A,Opportunity comes often,Sketch,Practical,Yes,Politician
+S0422,Organizing,New Ideas,Teamwork,Find a fun way,Train A,Grab the moment,Read,Practical,Yes,Artist
+S0423,Helping,Problem-solving,Independent,Find a fun way,Train A,Grab the moment,Learn languages,Practical,No,Musician
+S0424,Technical,Problem-solving,Independent,Skip it,Train B,Seize the chance,Learn languages,Practical,Yes,Teacher
+S0425,Helping,New Ideas,Teamwork,Skip it,Train A,Opportunity comes often,Blog,Practical,Sometimes,Athlete
+S0426,Creative,New Ideas,Teamwork,Skip it,Train A,Grab the moment,Design,Avoidant,Yes,Analyst
+S0427,Helping,Problem-solving,Independent,Skip it,Train A,Seize the chance,Play sports,Avoidant,Yes,Scientist
+S0428,Creative,Problem-solving,Teamwork,Skip it,Train A,Seize the chance,Tinker with gadgets,Practical,Yes,Athlete
+S0429,Creative,Problem-solving,Teamwork,Find a fun way,Train B,Seize the chance,Read,Avoidant,Yes,Politician
+S0430,Creative,Problem-solving,Independent,Complete anyway,Train B,Opportunity comes often,Watch tutorials,Avoidant,Yes,Engineer
+S0431,Technical,New Ideas,Teamwork,Skip it,Train B,Grab the moment,Read,Supportive,Sometimes,Athlete
+S0432,Helping,New Ideas,Teamwork,Find a fun way,Train A,Seize the chance,Read,Supportive,Yes,Entrepreneur
+S0433,Creative,New Ideas,Teamwork,Skip it,Train B,Seize the chance,Photography,Supportive,Yes,Engineer
+S0434,Organizing,Problem-solving,Independent,Find a fun way,Train A,Seize the chance,Sketch,Avoidant,Yes,Journalist
+S0435,Organizing,Problem-solving,Independent,Complete anyway,Train A,Seize the chance,Watch tutorials,Practical,Sometimes,Politician
+S0436,Technical,New Ideas,Teamwork,Complete anyway,Train B,Opportunity comes often,Learn languages,Supportive,Yes,Analyst
+S0437,Helping,New Ideas,Independent,Skip it,Train B,Grab the moment,Blog,Supportive,Yes,Analyst
+S0438,Organizing,Problem-solving,Teamwork,Find a fun way,Train B,Opportunity comes often,Watch tutorials,Supportive,No,Scientist
+S0439,Organizing,Problem-solving,Independent,Find a fun way,Train A,Opportunity comes often,Play sports,Practical,Yes,Athlete
+S0440,Creative,Problem-solving,Teamwork,Complete anyway,Train A,Opportunity comes often,Read,Practical,Sometimes,Designer
+S0441,Organizing,Problem-solving,Independent,Skip it,Train B,Opportunity comes often,Learn languages,Practical,Yes,Scientist
+S0442,Creative,New Ideas,Independent,Complete anyway,Train A,Seize the chance,Sketch,Avoidant,No,Scientist
+S0443,Creative,Problem-solving,Teamwork,Complete anyway,Train A,Grab the moment,Design,Supportive,Yes,Artist
+S0444,Technical,Problem-solving,Teamwork,Find a fun way,Train A,Opportunity comes often,Watch tutorials,Practical,Sometimes,Athlete
+S0445,Organizing,Problem-solving,Teamwork,Find a fun way,Train A,Grab the moment,Design,Avoidant,Yes,Engineer
+S0446,Helping,New Ideas,Teamwork,Complete anyway,Train B,Grab the moment,Code,Supportive,No,Journalist
+S0447,Creative,New Ideas,Independent,Find a fun way,Train B,Opportunity comes often,Tinker with gadgets,Supportive,No,Lawyer
+S0448,Organizing,New Ideas,Independent,Find a fun way,Train B,Grab the moment,Code,Practical,Sometimes,Engineer
+S0449,Organizing,New Ideas,Independent,Skip it,Train B,Opportunity comes often,Blog,Supportive,Yes,Creator
+S0450,Organizing,New Ideas,Independent,Complete anyway,Train A,Seize the chance,Watch tutorials,Supportive,Sometimes,Leader
+S0451,Organizing,New Ideas,Teamwork,Complete anyway,Train B,Seize the chance,Sketch,Supportive,No,Designer
+S0452,Technical,Problem-solving,Teamwork,Find a fun way,Train A,Opportunity comes often,Read,Practical,No,Athlete
+S0453,Helping,Problem-solving,Independent,Complete anyway,Train B,Seize the chance,Watch tutorials,Practical,Yes,Doctor
+S0454,Organizing,New Ideas,Teamwork,Find a fun way,Train B,Seize the chance,Blog,Supportive,Sometimes,Athlete
+S0455,Creative,Problem-solving,Teamwork,Complete anyway,Train A,Grab the moment,Read,Supportive,No,Lawyer
+S0456,Technical,Problem-solving,Independent,Skip it,Train A,Grab the moment,Read,Supportive,Yes,Musician
+S0457,Organizing,New Ideas,Independent,Find a fun way,Train B,Grab the moment,Design,Supportive,No,Engineer
+S0458,Organizing,Problem-solving,Teamwork,Find a fun way,Train B,Seize the chance,Write,Supportive,Sometimes,Analyst
+S0459,Helping,New Ideas,Independent,Find a fun way,Train B,Seize the chance,Sketch,Supportive,Yes,Analyst
+S0460,Technical,Problem-solving,Teamwork,Find a fun way,Train A,Opportunity comes often,Blog,Practical,Yes,Doctor
+S0461,Helping,New Ideas,Teamwork,Skip it,Train A,Seize the chance,Learn languages,Avoidant,Sometimes,Artist
+S0462,Creative,New Ideas,Independent,Find a fun way,Train A,Grab the moment,Learn languages,Supportive,Sometimes,Designer
+S0463,Organizing,New Ideas,Teamwork,Skip it,Train B,Opportunity comes often,Write,Practical,Yes,Analyst
+S0464,Organizing,Problem-solving,Independent,Find a fun way,Train A,Opportunity comes often,Blog,Avoidant,Sometimes,Athlete
+S0465,Organizing,New Ideas,Independent,Complete anyway,Train B,Seize the chance,Write,Avoidant,No,Creator
+S0466,Technical,Problem-solving,Teamwork,Skip it,Train B,Seize the chance,Code,Practical,No,Politician
+S0467,Technical,Problem-solving,Independent,Skip it,Train B,Opportunity comes often,Photography,Avoidant,Yes,Musician
+S0468,Technical,New Ideas,Teamwork,Find a fun way,Train B,Seize the chance,Code,Practical,Yes,Artist
+S0469,Technical,New Ideas,Teamwork,Skip it,Train A,Opportunity comes often,Tinker with gadgets,Practical,Yes,Creator
+S0470,Organizing,New Ideas,Teamwork,Find a fun way,Train A,Grab the moment,Write,Avoidant,Sometimes,Teacher
+S0471,Organizing,Problem-solving,Independent,Find a fun way,Train B,Grab the moment,Code,Supportive,Yes,Doctor
+S0472,Organizing,Problem-solving,Independent,Complete anyway,Train A,Seize the chance,Blog,Practical,No,Lawyer
+S0473,Technical,New Ideas,Teamwork,Skip it,Train B,Grab the moment,Read,Practical,Yes,Leader
+S0474,Helping,New Ideas,Teamwork,Complete anyway,Train A,Seize the chance,Play sports,Supportive,No,Musician
+S0475,Technical,Problem-solving,Teamwork,Find a fun way,Train B,Seize the chance,Photography,Practical,No,Creator
+S0476,Creative,New Ideas,Independent,Find a fun way,Train B,Opportunity comes often,Learn languages,Supportive,Sometimes,Leader
+S0477,Organizing,Problem-solving,Teamwork,Skip it,Train B,Grab the moment,Write,Supportive,Yes,Leader
+S0478,Creative,Problem-solving,Independent,Skip it,Train B,Opportunity comes often,Tinker with gadgets,Supportive,Yes,Journalist
+S0479,Organizing,New Ideas,Independent,Complete anyway,Train A,Grab the moment,Design,Practical,Sometimes,Leader
+S0480,Technical,New Ideas,Teamwork,Complete anyway,Train B,Seize the chance,Read,Avoidant,Sometimes,Scientist
+S0481,Technical,Problem-solving,Independent,Skip it,Train B,Grab the moment,Blog,Practical,Yes,Lawyer
+S0482,Technical,New Ideas,Teamwork,Complete anyway,Train A,Opportunity comes often,Design,Practical,Sometimes,Athlete
+S0483,Creative,New Ideas,Teamwork,Find a fun way,Train B,Opportunity comes often,Learn languages,Supportive,No,Doctor
+S0484,Technical,New Ideas,Independent,Find a fun way,Train B,Seize the chance,Watch tutorials,Practical,Yes,Politician
+S0485,Helping,New Ideas,Independent,Find a fun way,Train B,Seize the chance,Learn languages,Supportive,Yes,Artist
+S0486,Creative,New Ideas,Teamwork,Skip it,Train B,Grab the moment,Blog,Practical,Yes,Creator
+S0487,Helping,New Ideas,Teamwork,Complete anyway,Train B,Seize the chance,Read,Avoidant,Yes,Journalist
+S0488,Creative,New Ideas,Independent,Find a fun way,Train B,Grab the moment,Tinker with gadgets,Practical,No,Entrepreneur
+S0489,Technical,New Ideas,Independent,Skip it,Train A,Opportunity comes often,Design,Practical,Sometimes,Analyst
+S0490,Creative,Problem-solving,Independent,Find a fun way,Train A,Grab the moment,Design,Practical,Sometimes,Politician
+S0491,Technical,New Ideas,Independent,Skip it,Train B,Seize the chance,Write,Avoidant,Sometimes,Scientist
+S0492,Helping,New Ideas,Independent,Skip it,Train A,Grab the moment,Write,Avoidant,Yes,Athlete
+S0493,Helping,Problem-solving,Independent,Skip it,Train B,Grab the moment,Photography,Avoidant,Sometimes,Lawyer
+S0494,Helping,New Ideas,Teamwork,Find a fun way,Train A,Opportunity comes often,Read,Practical,No,Journalist
+S0495,Creative,New Ideas,Independent,Complete anyway,Train A,Grab the moment,Code,Practical,Sometimes,Musician
+S0496,Helping,New Ideas,Teamwork,Complete anyway,Train B,Grab the moment,Write,Practical,Yes,Engineer
+S0497,Organizing,New Ideas,Teamwork,Find a fun way,Train A,Opportunity comes often,Blog,Avoidant,Yes,Athlete
+S0498,Organizing,Problem-solving,Teamwork,Find a fun way,Train A,Seize the chance,Code,Practical,Sometimes,Engineer
+S0499,Creative,Problem-solving,Independent,Skip it,Train A,Seize the chance,Learn languages,Practical,Yes,Entrepreneur
+S0500,Helping,New Ideas,Independent,Find a fun way,Train B,Grab the moment,Code,Supportive,Yes,Journalist
+S0501,Helping,New Ideas,Teamwork,Find a fun way,Train B,Seize the chance,Play sports,Supportive,Sometimes,Teacher
+S0502,Creative,New Ideas,Independent,Complete anyway,Train A,Grab the moment,Learn languages,Practical,No,Entrepreneur
+S0503,Helping,Problem-solving,Teamwork,Complete anyway,Train A,Seize the chance,Design,Supportive,No,Artist
+S0504,Organizing,New Ideas,Independent,Skip it,Train B,Opportunity comes often,Sketch,Avoidant,No,Musician
+S0505,Helping,Problem-solving,Independent,Skip it,Train B,Opportunity comes often,Code,Avoidant,Sometimes,Designer
+S0506,Creative,Problem-solving,Teamwork,Skip it,Train A,Seize the chance,Play sports,Avoidant,Yes,Teacher
+S0507,Technical,Problem-solving,Independent,Find a fun way,Train B,Opportunity comes often,Blog,Avoidant,Yes,Musician
+S0508,Organizing,Problem-solving,Independent,Complete anyway,Train A,Seize the chance,Tinker with gadgets,Avoidant,Yes,Artist
+S0509,Technical,Problem-solving,Teamwork,Skip it,Train B,Seize the chance,Play sports,Supportive,Sometimes,Lawyer
+S0510,Creative,New Ideas,Independent,Skip it,Train B,Grab the moment,Tinker with gadgets,Avoidant,No,Musician
+S0511,Creative,Problem-solving,Teamwork,Find a fun way,Train B,Seize the chance,Photography,Avoidant,Sometimes,Teacher
+S0512,Helping,New Ideas,Independent,Complete anyway,Train A,Seize the chance,Design,Practical,Yes,Teacher
+S0513,Technical,New Ideas,Teamwork,Find a fun way,Train A,Opportunity comes often,Learn languages,Avoidant,Yes,Teacher
+S0514,Creative,New Ideas,Independent,Complete anyway,Train A,Grab the moment,Blog,Practical,Yes,Teacher
+S0515,Organizing,Problem-solving,Teamwork,Skip it,Train A,Opportunity comes often,Photography,Supportive,Yes,Musician
+S0516,Creative,New Ideas,Teamwork,Skip it,Train B,Seize the chance,Tinker with gadgets,Avoidant,Sometimes,Designer
+S0517,Helping,Problem-solving,Teamwork,Complete anyway,Train A,Grab the moment,Read,Avoidant,Yes,Politician
+S0518,Technical,Problem-solving,Independent,Skip it,Train A,Seize the chance,Learn languages,Avoidant,Yes,Scientist
+S0519,Technical,New Ideas,Teamwork,Skip it,Train A,Seize the chance,Read,Avoidant,Sometimes,Analyst
+S0520,Technical,Problem-solving,Teamwork,Complete anyway,Train B,Grab the moment,Sketch,Practical,Sometimes,Creator
+S0521,Organizing,Problem-solving,Teamwork,Complete anyway,Train B,Grab the moment,Design,Supportive,Yes,Artist
+S0522,Technical,Problem-solving,Independent,Complete anyway,Train B,Opportunity comes often,Learn languages,Supportive,Sometimes,Leader
+S0523,Technical,New Ideas,Teamwork,Complete anyway,Train A,Opportunity comes often,Tinker with gadgets,Supportive,No,Journalist
+S0524,Helping,Problem-solving,Independent,Complete anyway,Train B,Opportunity comes often,Code,Supportive,No,Doctor
+S0525,Technical,Problem-solving,Independent,Find a fun way,Train A,Opportunity comes often,Photography,Avoidant,No,Teacher
+S0526,Organizing,New Ideas,Independent,Skip it,Train A,Opportunity comes often,Code,Practical,Yes,Teacher
+S0527,Creative,Problem-solving,Independent,Find a fun way,Train B,Opportunity comes often,Code,Avoidant,Sometimes,Doctor
+S0528,Helping,New Ideas,Independent,Skip it,Train A,Grab the moment,Play sports,Avoidant,No,Athlete
+S0529,Organizing,Problem-solving,Teamwork,Skip it,Train B,Opportunity comes often,Tinker with gadgets,Practical,Yes,Leader
+S0530,Helping,Problem-solving,Teamwork,Find a fun way,Train A,Seize the chance,Sketch,Supportive,No,Creator
+S0531,Organizing,New Ideas,Teamwork,Complete anyway,Train A,Opportunity comes often,Tinker with gadgets,Practical,Yes,Artist
+S0532,Technical,Problem-solving,Teamwork,Find a fun way,Train B,Seize the chance,Sketch,Practical,No,Doctor
+S0533,Helping,Problem-solving,Teamwork,Skip it,Train B,Opportunity comes often,Watch tutorials,Practical,No,Creator
+S0534,Organizing,Problem-solving,Teamwork,Skip it,Train A,Grab the moment,Blog,Avoidant,Sometimes,Leader
+S0535,Creative,Problem-solving,Teamwork,Find a fun way,Train A,Grab the moment,Read,Supportive,No,Musician
+S0536,Technical,New Ideas,Teamwork,Complete anyway,Train B,Grab the moment,Read,Avoidant,No,Scientist
+S0537,Creative,New Ideas,Teamwork,Complete anyway,Train B,Grab the moment,Photography,Practical,No,Entrepreneur
+S0538,Technical,Problem-solving,Independent,Find a fun way,Train A,Grab the moment,Design,Supportive,Sometimes,Journalist
+S0539,Organizing,New Ideas,Teamwork,Find a fun way,Train A,Seize the chance,Watch tutorials,Supportive,Sometimes,Musician
+S0540,Technical,Problem-solving,Independent,Complete anyway,Train A,Grab the moment,Watch tutorials,Practical,Yes,Journalist
+S0541,Technical,New Ideas,Independent,Find a fun way,Train A,Grab the moment,Tinker with gadgets,Practical,No,Athlete
+S0542,Creative,New Ideas,Independent,Find a fun way,Train B,Opportunity comes often,Blog,Supportive,No,Athlete
+S0543,Technical,Problem-solving,Teamwork,Complete anyway,Train A,Opportunity comes often,Photography,Practical,Yes,Leader
+S0544,Organizing,New Ideas,Teamwork,Complete anyway,Train A,Grab the moment,Blog,Supportive,No,Leader
+S0545,Creative,Problem-solving,Teamwork,Skip it,Train B,Seize the chance,Design,Avoidant,Sometimes,Creator
+S0546,Organizing,Problem-solving,Independent,Complete anyway,Train A,Seize the chance,Learn languages,Avoidant,No,Creator
+S0547,Helping,New Ideas,Independent,Find a fun way,Train B,Opportunity comes often,Learn languages,Practical,Yes,Analyst
+S0548,Organizing,New Ideas,Teamwork,Skip it,Train A,Opportunity comes often,Read,Avoidant,Yes,Athlete
+S0549,Helping,New Ideas,Independent,Complete anyway,Train A,Seize the chance,Sketch,Avoidant,No,Lawyer
+S0550,Organizing,New Ideas,Teamwork,Complete anyway,Train B,Grab the moment,Tinker with gadgets,Practical,No,Analyst
+S0551,Technical,New Ideas,Teamwork,Complete anyway,Train B,Grab the moment,Code,Practical,Yes,Analyst
+S0552,Technical,New Ideas,Independent,Complete anyway,Train B,Grab the moment,Code,Avoidant,No,Artist
+S0553,Creative,New Ideas,Teamwork,Complete anyway,Train A,Grab the moment,Sketch,Avoidant,Yes,Designer
+S0554,Creative,Problem-solving,Independent,Skip it,Train A,Seize the chance,Read,Avoidant,Yes,Athlete
+S0555,Helping,New Ideas,Independent,Skip it,Train A,Opportunity comes often,Learn languages,Practical,Yes,Entrepreneur
+S0556,Creative,Problem-solving,Teamwork,Skip it,Train B,Seize the chance,Sketch,Practical,Sometimes,Scientist
+S0557,Creative,New Ideas,Independent,Complete anyway,Train A,Opportunity comes often,Read,Supportive,Sometimes,Analyst
+S0558,Technical,New Ideas,Teamwork,Complete anyway,Train B,Grab the moment,Play sports,Practical,Sometimes,Analyst
+S0559,Helping,Problem-solving,Teamwork,Find a fun way,Train A,Seize the chance,Photography,Avoidant,Yes,Leader
+S0560,Technical,New Ideas,Teamwork,Skip it,Train A,Seize the chance,Read,Supportive,Sometimes,Designer
+S0561,Creative,New Ideas,Teamwork,Complete anyway,Train A,Opportunity comes often,Tinker with gadgets,Practical,Sometimes,Politician
+S0562,Helping,Problem-solving,Independent,Skip it,Train B,Grab the moment,Write,Avoidant,Sometimes,Designer
+S0563,Creative,Problem-solving,Teamwork,Complete anyway,Train A,Grab the moment,Read,Avoidant,No,Designer
+S0564,Helping,Problem-solving,Teamwork,Skip it,Train B,Opportunity comes often,Photography,Supportive,Sometimes,Designer
+S0565,Creative,New Ideas,Independent,Find a fun way,Train A,Grab the moment,Photography,Supportive,Yes,Politician
+S0566,Helping,New Ideas,Independent,Complete anyway,Train A,Seize the chance,Code,Supportive,No,Journalist
+S0567,Technical,Problem-solving,Teamwork,Skip it,Train B,Seize the chance,Write,Avoidant,Sometimes,Designer
+S0568,Helping,Problem-solving,Independent,Find a fun way,Train B,Seize the chance,Write,Avoidant,No,Politician
+S0569,Technical,New Ideas,Independent,Complete anyway,Train A,Grab the moment,Tinker with gadgets,Practical,Sometimes,Journalist
+S0570,Helping,New Ideas,Teamwork,Skip it,Train B,Opportunity comes often,Play sports,Supportive,No,Engineer
+S0571,Technical,New Ideas,Independent,Skip it,Train A,Grab the moment,Tinker with gadgets,Supportive,Yes,Journalist
+S0572,Organizing,New Ideas,Teamwork,Find a fun way,Train B,Opportunity comes often,Learn languages,Practical,Yes,Designer
+S0573,Organizing,New Ideas,Independent,Complete anyway,Train B,Grab the moment,Photography,Supportive,No,Lawyer
+S0574,Technical,New Ideas,Independent,Complete anyway,Train A,Seize the chance,Photography,Avoidant,Sometimes,Designer
+S0575,Technical,New Ideas,Teamwork,Skip it,Train B,Opportunity comes often,Design,Avoidant,Yes,Leader
+S0576,Creative,New Ideas,Independent,Complete anyway,Train A,Grab the moment,Play sports,Practical,No,Teacher
+S0577,Creative,Problem-solving,Teamwork,Skip it,Train B,Grab the moment,Code,Avoidant,Yes,Leader
+S0578,Technical,Problem-solving,Teamwork,Complete anyway,Train A,Seize the chance,Play sports,Supportive,Sometimes,Engineer
+S0579,Organizing,Problem-solving,Teamwork,Skip it,Train B,Seize the chance,Watch tutorials,Avoidant,Yes,Politician
+S0580,Creative,New Ideas,Independent,Skip it,Train B,Opportunity comes often,Learn languages,Avoidant,Yes,Artist
+S0581,Organizing,Problem-solving,Teamwork,Skip it,Train A,Grab the moment,Read,Practical,No,Creator
+S0582,Organizing,New Ideas,Teamwork,Find a fun way,Train B,Seize the chance,Photography,Supportive,Sometimes,Musician
+S0583,Technical,New Ideas,Teamwork,Find a fun way,Train A,Seize the chance,Learn languages,Avoidant,Sometimes,Designer
+S0584,Creative,New Ideas,Teamwork,Complete anyway,Train B,Opportunity comes often,Blog,Supportive,Sometimes,Scientist
+S0585,Creative,New Ideas,Independent,Skip it,Train B,Opportunity comes often,Play sports,Supportive,Sometimes,Engineer
+S0586,Organizing,Problem-solving,Teamwork,Skip it,Train B,Seize the chance,Code,Supportive,Sometimes,Designer
+S0587,Organizing,New Ideas,Teamwork,Find a fun way,Train B,Opportunity comes often,Code,Avoidant,No,Designer
+S0588,Organizing,New Ideas,Independent,Find a fun way,Train B,Opportunity comes often,Learn languages,Practical,No,Artist
+S0589,Creative,Problem-solving,Independent,Find a fun way,Train B,Opportunity comes often,Blog,Practical,No,Creator
+S0590,Organizing,Problem-solving,Teamwork,Complete anyway,Train A,Grab the moment,Sketch,Practical,Yes,Journalist
+S0591,Technical,New Ideas,Independent,Skip it,Train B,Grab the moment,Write,Avoidant,No,Designer
+S0592,Technical,New Ideas,Independent,Find a fun way,Train A,Opportunity comes often,Sketch,Supportive,Sometimes,Artist
+S0593,Organizing,New Ideas,Teamwork,Skip it,Train A,Seize the chance,Sketch,Supportive,No,Scientist
+S0594,Technical,Problem-solving,Teamwork,Find a fun way,Train A,Grab the moment,Learn languages,Practical,Yes,Designer
+S0595,Organizing,Problem-solving,Independent,Complete anyway,Train B,Opportunity comes often,Blog,Avoidant,Yes,Entrepreneur
+S0596,Organizing,New Ideas,Independent,Find a fun way,Train A,Seize the chance,Read,Practical,Yes,Lawyer
+S0597,Helping,New Ideas,Teamwork,Skip it,Train B,Seize the chance,Design,Supportive,Yes,Athlete
+S0598,Technical,Problem-solving,Teamwork,Find a fun way,Train A,Opportunity comes often,Watch tutorials,Supportive,Sometimes,Scientist
+S0599,Creative,New Ideas,Teamwork,Complete anyway,Train A,Grab the moment,Write,Practical,Sometimes,Artist
+S0600,Helping,New Ideas,Independent,Skip it,Train B,Seize the chance,Write,Avoidant,No,Doctor
+S0601,Creative,New Ideas,Independent,Complete anyway,Train A,Opportunity comes often,Watch tutorials,Supportive,Yes,Entrepreneur
+S0602,Creative,Problem-solving,Independent,Skip it,Train B,Seize the chance,Learn languages,Supportive,No,Leader
+S0603,Technical,New Ideas,Teamwork,Skip it,Train B,Opportunity comes often,Design,Practical,No,Creator
+S0604,Creative,New Ideas,Teamwork,Complete anyway,Train B,Seize the chance,Code,Avoidant,Sometimes,Leader
+S0605,Organizing,Problem-solving,Independent,Find a fun way,Train A,Opportunity comes often,Play sports,Avoidant,No,Entrepreneur
+S0606,Helping,New Ideas,Teamwork,Complete anyway,Train B,Grab the moment,Sketch,Supportive,No,Artist
+S0607,Creative,Problem-solving,Independent,Skip it,Train A,Grab the moment,Watch tutorials,Supportive,No,Entrepreneur
+S0608,Creative,Problem-solving,Independent,Skip it,Train B,Opportunity comes often,Learn languages,Supportive,Sometimes,Lawyer
+S0609,Technical,New Ideas,Independent,Find a fun way,Train B,Opportunity comes often,Read,Practical,No,Engineer
+S0610,Creative,New Ideas,Independent,Complete anyway,Train B,Opportunity comes often,Read,Avoidant,Sometimes,Entrepreneur
+S0611,Technical,New Ideas,Independent,Skip it,Train A,Seize the chance,Read,Avoidant,Yes,Analyst
+S0612,Organizing,New Ideas,Independent,Complete anyway,Train A,Seize the chance,Design,Avoidant,Yes,Creator
+S0613,Helping,Problem-solving,Teamwork,Complete anyway,Train A,Grab the moment,Design,Avoidant,Yes,Leader
+S0614,Organizing,New Ideas,Teamwork,Complete anyway,Train B,Grab the moment,Read,Supportive,No,Doctor
+S0615,Organizing,New Ideas,Independent,Find a fun way,Train B,Opportunity comes often,Design,Practical,No,Engineer
+S0616,Helping,New Ideas,Independent,Skip it,Train A,Grab the moment,Code,Avoidant,Yes,Doctor
+S0617,Organizing,New Ideas,Independent,Skip it,Train B,Seize the chance,Blog,Supportive,Sometimes,Engineer
+S0618,Helping,New Ideas,Independent,Skip it,Train B,Grab the moment,Read,Supportive,Yes,Leader
+S0619,Creative,Problem-solving,Independent,Skip it,Train B,Grab the moment,Learn languages,Avoidant,Yes,Entrepreneur
+S0620,Technical,Problem-solving,Teamwork,Skip it,Train B,Seize the chance,Read,Practical,Sometimes,Analyst
+S0621,Helping,Problem-solving,Teamwork,Complete anyway,Train B,Opportunity comes often,Read,Practical,No,Analyst
+S0622,Helping,New Ideas,Independent,Find a fun way,Train B,Grab the moment,Blog,Practical,Sometimes,Designer
+S0623,Technical,Problem-solving,Independent,Find a fun way,Train A,Opportunity comes often,Blog,Avoidant,Sometimes,Leader
+S0624,Creative,Problem-solving,Independent,Skip it,Train A,Opportunity comes often,Watch tutorials,Supportive,Yes,Analyst
+S0625,Organizing,Problem-solving,Independent,Find a fun way,Train A,Seize the chance,Photography,Supportive,Sometimes,Creator
+S0626,Helping,Problem-solving,Teamwork,Skip it,Train B,Seize the chance,Tinker with gadgets,Avoidant,Sometimes,Doctor
+S0627,Technical,New Ideas,Teamwork,Find a fun way,Train A,Opportunity comes often,Watch tutorials,Supportive,Yes,Designer
+S0628,Helping,New Ideas,Teamwork,Skip it,Train A,Seize the chance,Play sports,Supportive,No,Artist
+S0629,Creative,Problem-solving,Teamwork,Find a fun way,Train A,Seize the chance,Code,Supportive,No,Scientist
+S0630,Creative,New Ideas,Independent,Find a fun way,Train A,Grab the moment,Design,Supportive,Sometimes,Journalist
+S0631,Technical,Problem-solving,Teamwork,Complete anyway,Train A,Opportunity comes often,Photography,Practical,Sometimes,Creator
+S0632,Creative,New Ideas,Independent,Complete anyway,Train B,Grab the moment,Code,Avoidant,Sometimes,Scientist
+S0633,Technical,Problem-solving,Teamwork,Skip it,Train A,Grab the moment,Sketch,Supportive,Yes,Leader
+S0634,Creative,New Ideas,Teamwork,Complete anyway,Train A,Seize the chance,Design,Avoidant,Sometimes,Journalist
+S0635,Organizing,Problem-solving,Teamwork,Complete anyway,Train A,Grab the moment,Read,Avoidant,No,Lawyer
+S0636,Creative,Problem-solving,Teamwork,Complete anyway,Train B,Grab the moment,Photography,Supportive,No,Creator
+S0637,Technical,New Ideas,Independent,Complete anyway,Train A,Seize the chance,Tinker with gadgets,Avoidant,No,Musician
+S0638,Helping,Problem-solving,Teamwork,Find a fun way,Train A,Grab the moment,Read,Practical,No,Leader
+S0639,Creative,Problem-solving,Teamwork,Skip it,Train B,Opportunity comes often,Read,Practical,No,Analyst
+S0640,Organizing,Problem-solving,Independent,Find a fun way,Train B,Seize the chance,Blog,Practical,No,Journalist
+S0641,Organizing,Problem-solving,Independent,Complete anyway,Train B,Grab the moment,Design,Avoidant,Yes,Teacher
+S0642,Creative,New Ideas,Teamwork,Skip it,Train A,Grab the moment,Design,Supportive,Yes,Creator
+S0643,Organizing,Problem-solving,Teamwork,Complete anyway,Train A,Seize the chance,Learn languages,Practical,Sometimes,Doctor
+S0644,Organizing,Problem-solving,Independent,Skip it,Train B,Opportunity comes often,Sketch,Practical,Sometimes,Teacher
+S0645,Creative,New Ideas,Teamwork,Skip it,Train A,Seize the chance,Photography,Practical,Sometimes,Engineer
+S0646,Helping,Problem-solving,Independent,Skip it,Train B,Opportunity comes often,Play sports,Avoidant,No,Scientist
+S0647,Organizing,New Ideas,Independent,Skip it,Train B,Seize the chance,Read,Supportive,Sometimes,Leader
+S0648,Organizing,Problem-solving,Independent,Skip it,Train A,Grab the moment,Learn languages,Supportive,Yes,Journalist
+S0649,Technical,Problem-solving,Independent,Complete anyway,Train A,Opportunity comes often,Learn languages,Supportive,Yes,Engineer
+S0650,Organizing,New Ideas,Teamwork,Skip it,Train B,Grab the moment,Code,Supportive,Sometimes,Engineer
+S0651,Creative,Problem-solving,Independent,Skip it,Train A,Seize the chance,Play sports,Avoidant,No,Lawyer
+S0652,Technical,New Ideas,Teamwork,Complete anyway,Train B,Seize the chance,Tinker with gadgets,Practical,Yes,Doctor
+S0653,Helping,New Ideas,Teamwork,Skip it,Train B,Grab the moment,Watch tutorials,Supportive,No,Teacher
+S0654,Organizing,New Ideas,Teamwork,Skip it,Train B,Grab the moment,Design,Practical,Sometimes,Scientist
+S0655,Technical,New Ideas,Independent,Find a fun way,Train B,Grab the moment,Sketch,Supportive,Sometimes,Journalist
+S0656,Creative,New Ideas,Teamwork,Find a fun way,Train A,Grab the moment,Photography,Avoidant,Yes,Creator
+S0657,Helping,New Ideas,Teamwork,Skip it,Train B,Seize the chance,Watch tutorials,Practical,No,Teacher
+S0658,Organizing,Problem-solving,Teamwork,Complete anyway,Train A,Opportunity comes often,Tinker with gadgets,Practical,Yes,Musician
+S0659,Organizing,New Ideas,Independent,Skip it,Train A,Opportunity comes often,Read,Avoidant,Yes,Artist
+S0660,Technical,New Ideas,Independent,Find a fun way,Train B,Opportunity comes often,Read,Practical,Yes,Analyst
+S0661,Organizing,New Ideas,Teamwork,Complete anyway,Train B,Grab the moment,Photography,Avoidant,Sometimes,Analyst
+S0662,Organizing,Problem-solving,Independent,Find a fun way,Train A,Opportunity comes often,Sketch,Avoidant,No,Lawyer
+S0663,Organizing,Problem-solving,Teamwork,Complete anyway,Train B,Seize the chance,Write,Practical,Yes,Creator
+S0664,Organizing,Problem-solving,Independent,Find a fun way,Train B,Grab the moment,Read,Practical,No,Lawyer
+S0665,Helping,Problem-solving,Independent,Complete anyway,Train A,Opportunity comes often,Blog,Practical,No,Creator
+S0666,Helping,New Ideas,Independent,Complete anyway,Train B,Opportunity comes often,Tinker with gadgets,Supportive,Sometimes,Designer
+S0667,Creative,Problem-solving,Independent,Find a fun way,Train A,Seize the chance,Play sports,Supportive,No,Designer
+S0668,Technical,New Ideas,Teamwork,Find a fun way,Train B,Grab the moment,Watch tutorials,Avoidant,Yes,Scientist
+S0669,Organizing,Problem-solving,Teamwork,Skip it,Train B,Grab the moment,Blog,Avoidant,Sometimes,Politician
+S0670,Technical,New Ideas,Independent,Skip it,Train B,Grab the moment,Play sports,Supportive,Yes,Designer
+S0671,Technical,Problem-solving,Independent,Skip it,Train B,Opportunity comes often,Play sports,Practical,Yes,Leader
+S0672,Helping,Problem-solving,Independent,Skip it,Train A,Opportunity comes often,Photography,Avoidant,Yes,Leader
+S0673,Technical,Problem-solving,Teamwork,Complete anyway,Train B,Opportunity comes often,Watch tutorials,Practical,Yes,Doctor
+S0674,Technical,Problem-solving,Independent,Complete anyway,Train A,Seize the chance,Write,Avoidant,No,Designer
+S0675,Creative,New Ideas,Independent,Find a fun way,Train B,Grab the moment,Sketch,Supportive,Sometimes,Politician
+S0676,Technical,Problem-solving,Teamwork,Skip it,Train A,Seize the chance,Photography,Avoidant,Yes,Artist
+S0677,Organizing,Problem-solving,Teamwork,Skip it,Train A,Seize the chance,Play sports,Practical,No,Leader
+S0678,Technical,Problem-solving,Independent,Complete anyway,Train A,Seize the chance,Sketch,Avoidant,No,Athlete
+S0679,Technical,Problem-solving,Independent,Complete anyway,Train A,Grab the moment,Read,Practical,Sometimes,Scientist
+S0680,Technical,Problem-solving,Teamwork,Skip it,Train A,Seize the chance,Blog,Supportive,No,Athlete
+S0681,Organizing,Problem-solving,Teamwork,Skip it,Train B,Seize the chance,Read,Supportive,Sometimes,Doctor
+S0682,Helping,New Ideas,Independent,Complete anyway,Train B,Seize the chance,Code,Practical,Sometimes,Analyst
+S0683,Creative,Problem-solving,Teamwork,Find a fun way,Train B,Grab the moment,Code,Supportive,Yes,Creator
+S0684,Organizing,New Ideas,Independent,Skip it,Train A,Grab the moment,Code,Practical,No,Athlete
+S0685,Helping,Problem-solving,Independent,Skip it,Train B,Opportunity comes often,Play sports,Supportive,Yes,Analyst
+S0686,Technical,Problem-solving,Teamwork,Skip it,Train B,Seize the chance,Play sports,Practical,No,Teacher
+S0687,Helping,Problem-solving,Teamwork,Skip it,Train B,Opportunity comes often,Play sports,Supportive,Yes,Scientist
+S0688,Organizing,Problem-solving,Independent,Complete anyway,Train A,Grab the moment,Learn languages,Supportive,Yes,Doctor
+S0689,Organizing,New Ideas,Independent,Skip it,Train A,Grab the moment,Code,Supportive,No,Engineer
+S0690,Creative,New Ideas,Independent,Skip it,Train B,Seize the chance,Learn languages,Avoidant,Sometimes,Creator
+S0691,Helping,New Ideas,Independent,Skip it,Train A,Grab the moment,Sketch,Practical,Yes,Designer
+S0692,Creative,New Ideas,Independent,Find a fun way,Train A,Grab the moment,Photography,Supportive,No,Designer
+S0693,Organizing,Problem-solving,Teamwork,Skip it,Train B,Grab the moment,Photography,Supportive,Sometimes,Artist
+S0694,Organizing,New Ideas,Teamwork,Complete anyway,Train B,Grab the moment,Blog,Practical,Yes,Lawyer
+S0695,Helping,Problem-solving,Teamwork,Skip it,Train A,Grab the moment,Sketch,Avoidant,Sometimes,Designer
+S0696,Creative,New Ideas,Teamwork,Complete anyway,Train A,Opportunity comes often,Play sports,Avoidant,Sometimes,Journalist
+S0697,Organizing,Problem-solving,Independent,Complete anyway,Train B,Grab the moment,Design,Practical,Yes,Engineer
+S0698,Creative,Problem-solving,Teamwork,Skip it,Train A,Grab the moment,Learn languages,Practical,Sometimes,Analyst
+S0699,Helping,New Ideas,Teamwork,Complete anyway,Train B,Seize the chance,Code,Avoidant,No,Analyst
+S0700,Creative,Problem-solving,Teamwork,Find a fun way,Train B,Seize the chance,Learn languages,Supportive,Yes,Athlete
+S0701,Organizing,Problem-solving,Independent,Find a fun way,Train A,Opportunity comes often,Play sports,Avoidant,No,Leader
+S0702,Organizing,Problem-solving,Teamwork,Skip it,Train A,Seize the chance,Code,Practical,Yes,Musician
+S0703,Creative,Problem-solving,Independent,Skip it,Train B,Seize the chance,Play sports,Avoidant,Yes,Leader
+S0704,Technical,Problem-solving,Teamwork,Complete anyway,Train A,Grab the moment,Photography,Practical,No,Analyst
+S0705,Helping,New Ideas,Independent,Skip it,Train B,Opportunity comes often,Play sports,Avoidant,Yes,Musician
+S0706,Creative,New Ideas,Independent,Skip it,Train B,Seize the chance,Blog,Practical,Sometimes,Teacher
+S0707,Creative,New Ideas,Independent,Find a fun way,Train B,Opportunity comes often,Watch tutorials,Supportive,Yes,Lawyer
+S0708,Technical,Problem-solving,Independent,Complete anyway,Train B,Seize the chance,Write,Supportive,Sometimes,Teacher
+S0709,Technical,New Ideas,Teamwork,Complete anyway,Train A,Opportunity comes often,Play sports,Avoidant,Sometimes,Analyst
+S0710,Technical,Problem-solving,Teamwork,Skip it,Train A,Opportunity comes often,Photography,Practical,Sometimes,Creator
+S0711,Technical,Problem-solving,Independent,Skip it,Train A,Opportunity comes often,Photography,Supportive,Sometimes,Analyst
+S0712,Organizing,Problem-solving,Teamwork,Skip it,Train A,Seize the chance,Write,Supportive,Yes,Teacher
+S0713,Organizing,Problem-solving,Independent,Skip it,Train B,Grab the moment,Code,Practical,No,Leader
+S0714,Helping,New Ideas,Independent,Complete anyway,Train B,Seize the chance,Play sports,Practical,No,Creator
+S0715,Technical,New Ideas,Independent,Skip it,Train B,Grab the moment,Tinker with gadgets,Avoidant,Sometimes,Leader
+S0716,Technical,Problem-solving,Teamwork,Find a fun way,Train B,Seize the chance,Sketch,Avoidant,Yes,Analyst
+S0717,Organizing,New Ideas,Independent,Skip it,Train B,Seize the chance,Read,Practical,Yes,Engineer
+S0718,Technical,Problem-solving,Teamwork,Skip it,Train A,Seize the chance,Design,Practical,Yes,Leader
+S0719,Technical,Problem-solving,Independent,Skip it,Train B,Seize the chance,Play sports,Practical,No,Designer
+S0720,Helping,New Ideas,Teamwork,Complete anyway,Train A,Seize the chance,Write,Avoidant,No,Politician
+S0721,Creative,Problem-solving,Independent,Skip it,Train A,Opportunity comes often,Read,Supportive,Sometimes,Analyst
+S0722,Helping,New Ideas,Teamwork,Find a fun way,Train B,Seize the chance,Design,Supportive,Yes,Doctor
+S0723,Creative,Problem-solving,Teamwork,Skip it,Train B,Grab the moment,Code,Supportive,Sometimes,Lawyer
+S0724,Organizing,New Ideas,Independent,Skip it,Train B,Grab the moment,Read,Avoidant,Sometimes,Lawyer
+S0725,Creative,Problem-solving,Independent,Find a fun way,Train B,Grab the moment,Play sports,Supportive,Yes,Athlete
+S0726,Organizing,New Ideas,Teamwork,Find a fun way,Train A,Opportunity comes often,Photography,Avoidant,Sometimes,Scientist
+S0727,Organizing,Problem-solving,Independent,Complete anyway,Train A,Grab the moment,Code,Practical,Yes,Athlete
+S0728,Helping,New Ideas,Teamwork,Find a fun way,Train A,Grab the moment,Learn languages,Avoidant,Yes,Designer
+S0729,Creative,Problem-solving,Teamwork,Skip it,Train B,Grab the moment,Read,Practical,No,Musician
+S0730,Helping,Problem-solving,Teamwork,Complete anyway,Train B,Opportunity comes often,Play sports,Practical,Yes,Journalist
+S0731,Organizing,Problem-solving,Teamwork,Find a fun way,Train B,Opportunity comes often,Read,Supportive,Yes,Analyst
+S0732,Technical,Problem-solving,Independent,Find a fun way,Train A,Opportunity comes often,Tinker with gadgets,Avoidant,No,Teacher
+S0733,Creative,New Ideas,Teamwork,Find a fun way,Train B,Grab the moment,Design,Supportive,No,Engineer
+S0734,Helping,Problem-solving,Independent,Skip it,Train B,Grab the moment,Sketch,Practical,Sometimes,Leader
+S0735,Creative,Problem-solving,Independent,Complete anyway,Train A,Opportunity comes often,Read,Avoidant,Sometimes,Teacher
+S0736,Helping,Problem-solving,Teamwork,Find a fun way,Train A,Seize the chance,Photography,Avoidant,No,Athlete
+S0737,Helping,New Ideas,Teamwork,Complete anyway,Train B,Grab the moment,Design,Supportive,Yes,Scientist
+S0738,Organizing,Problem-solving,Teamwork,Complete anyway,Train B,Grab the moment,Code,Practical,Yes,Teacher
+S0739,Creative,New Ideas,Teamwork,Skip it,Train B,Grab the moment,Watch tutorials,Practical,No,Athlete
+S0740,Organizing,New Ideas,Teamwork,Skip it,Train B,Seize the chance,Learn languages,Supportive,Sometimes,Politician
+S0741,Organizing,New Ideas,Independent,Skip it,Train B,Opportunity comes often,Read,Supportive,Yes,Artist
+S0742,Technical,New Ideas,Teamwork,Find a fun way,Train A,Seize the chance,Design,Supportive,No,Artist
+S0743,Helping,Problem-solving,Independent,Find a fun way,Train B,Opportunity comes often,Learn languages,Avoidant,Sometimes,Musician
+S0744,Creative,New Ideas,Independent,Complete anyway,Train B,Opportunity comes often,Blog,Avoidant,No,Musician
+S0745,Organizing,New Ideas,Teamwork,Find a fun way,Train A,Opportunity comes often,Code,Practical,No,Engineer
+S0746,Creative,Problem-solving,Teamwork,Skip it,Train A,Grab the moment,Photography,Supportive,No,Journalist
+S0747,Creative,New Ideas,Independent,Skip it,Train A,Seize the chance,Photography,Supportive,Yes,Politician
+S0748,Helping,Problem-solving,Independent,Complete anyway,Train A,Opportunity comes often,Write,Practical,Sometimes,Leader
+S0749,Technical,Problem-solving,Teamwork,Complete anyway,Train A,Opportunity comes often,Read,Supportive,Yes,Creator
+S0750,Technical,New Ideas,Teamwork,Complete anyway,Train A,Grab the moment,Learn languages,Practical,Yes,Journalist
+S0751,Helping,Problem-solving,Independent,Find a fun way,Train B,Grab the moment,Learn languages,Supportive,Sometimes,Engineer
+S0752,Organizing,New Ideas,Independent,Find a fun way,Train A,Seize the chance,Photography,Supportive,Yes,Politician
+S0753,Organizing,New Ideas,Independent,Skip it,Train B,Opportunity comes often,Learn languages,Avoidant,Sometimes,Designer
+S0754,Creative,New Ideas,Teamwork,Find a fun way,Train B,Opportunity comes often,Photography,Practical,No,Designer
+S0755,Organizing,Problem-solving,Independent,Skip it,Train A,Opportunity comes often,Tinker with gadgets,Avoidant,Yes,Musician
+S0756,Creative,New Ideas,Teamwork,Skip it,Train B,Grab the moment,Photography,Avoidant,No,Artist
+S0757,Organizing,Problem-solving,Independent,Complete anyway,Train A,Opportunity comes often,Blog,Practical,Sometimes,Engineer
+S0758,Creative,Problem-solving,Teamwork,Find a fun way,Train A,Opportunity comes often,Blog,Practical,Yes,Artist
+S0759,Creative,New Ideas,Independent,Skip it,Train B,Grab the moment,Tinker with gadgets,Practical,Yes,Politician
+S0760,Helping,Problem-solving,Independent,Complete anyway,Train B,Opportunity comes often,Photography,Avoidant,No,Leader
+S0761,Helping,New Ideas,Teamwork,Find a fun way,Train A,Grab the moment,Watch tutorials,Practical,No,Engineer
+S0762,Technical,New Ideas,Teamwork,Complete anyway,Train B,Opportunity comes often,Design,Practical,No,Designer
+S0763,Helping,New Ideas,Teamwork,Find a fun way,Train B,Seize the chance,Photography,Supportive,Yes,Lawyer
+S0764,Organizing,Problem-solving,Teamwork,Skip it,Train A,Seize the chance,Design,Avoidant,Yes,Entrepreneur
+S0765,Helping,New Ideas,Teamwork,Complete anyway,Train A,Grab the moment,Read,Supportive,Yes,Leader
+S0766,Creative,New Ideas,Independent,Find a fun way,Train B,Grab the moment,Tinker with gadgets,Supportive,No,Engineer
+S0767,Organizing,New Ideas,Independent,Skip it,Train B,Grab the moment,Design,Practical,No,Leader
+S0768,Creative,Problem-solving,Independent,Find a fun way,Train B,Grab the moment,Code,Avoidant,No,Designer
+S0769,Technical,New Ideas,Teamwork,Complete anyway,Train B,Opportunity comes often,Tinker with gadgets,Supportive,Sometimes,Creator
+S0770,Organizing,Problem-solving,Independent,Skip it,Train A,Seize the chance,Watch tutorials,Avoidant,Sometimes,Politician
+S0771,Creative,New Ideas,Independent,Find a fun way,Train A,Seize the chance,Write,Supportive,No,Creator
+S0772,Creative,Problem-solving,Independent,Find a fun way,Train B,Opportunity comes often,Play sports,Avoidant,No,Politician
+S0773,Creative,New Ideas,Teamwork,Skip it,Train B,Seize the chance,Blog,Supportive,No,Politician
+S0774,Technical,Problem-solving,Teamwork,Complete anyway,Train A,Opportunity comes often,Write,Avoidant,Yes,Politician
+S0775,Technical,New Ideas,Teamwork,Find a fun way,Train B,Grab the moment,Tinker with gadgets,Practical,Yes,Athlete
+S0776,Organizing,Problem-solving,Teamwork,Find a fun way,Train A,Grab the moment,Photography,Avoidant,Sometimes,Artist
+S0777,Helping,Problem-solving,Teamwork,Find a fun way,Train A,Grab the moment,Watch tutorials,Supportive,Sometimes,Analyst
+S0778,Helping,New Ideas,Independent,Skip it,Train B,Seize the chance,Photography,Practical,Yes,Designer
+S0779,Organizing,Problem-solving,Independent,Complete anyway,Train A,Opportunity comes often,Tinker with gadgets,Supportive,Yes,Analyst
+S0780,Creative,New Ideas,Independent,Skip it,Train B,Opportunity comes often,Read,Supportive,Sometimes,Lawyer
+S0781,Helping,Problem-solving,Independent,Complete anyway,Train B,Opportunity comes often,Tinker with gadgets,Supportive,Sometimes,Journalist
+S0782,Helping,Problem-solving,Independent,Find a fun way,Train B,Opportunity comes often,Learn languages,Supportive,Yes,Designer
+S0783,Creative,New Ideas,Teamwork,Complete anyway,Train A,Opportunity comes often,Play sports,Avoidant,Yes,Teacher
+S0784,Helping,New Ideas,Independent,Find a fun way,Train A,Opportunity comes often,Watch tutorials,Avoidant,No,Lawyer
+S0785,Technical,New Ideas,Teamwork,Complete anyway,Train A,Opportunity comes often,Play sports,Supportive,Yes,Journalist
+S0786,Technical,Problem-solving,Independent,Find a fun way,Train B,Seize the chance,Tinker with gadgets,Practical,No,Teacher
+S0787,Organizing,Problem-solving,Teamwork,Skip it,Train A,Opportunity comes often,Photography,Avoidant,No,Lawyer
+S0788,Creative,New Ideas,Teamwork,Skip it,Train B,Grab the moment,Tinker with gadgets,Practical,Sometimes,Athlete
+S0789,Organizing,New Ideas,Teamwork,Skip it,Train A,Seize the chance,Design,Practical,Yes,Journalist
+S0790,Organizing,Problem-solving,Independent,Skip it,Train A,Opportunity comes often,Photography,Avoidant,Yes,Journalist
+S0791,Organizing,New Ideas,Independent,Skip it,Train A,Seize the chance,Sketch,Supportive,No,Teacher
+S0792,Creative,New Ideas,Independent,Skip it,Train A,Grab the moment,Read,Avoidant,Sometimes,Teacher
+S0793,Creative,Problem-solving,Independent,Find a fun way,Train A,Opportunity comes often,Design,Supportive,Sometimes,Musician
+S0794,Creative,New Ideas,Teamwork,Find a fun way,Train A,Grab the moment,Watch tutorials,Practical,Yes,Lawyer
+S0795,Helping,New Ideas,Independent,Find a fun way,Train A,Grab the moment,Blog,Practical,Yes,Scientist
+S0796,Technical,New Ideas,Independent,Complete anyway,Train B,Grab the moment,Write,Practical,Yes,Artist
+S0797,Technical,New Ideas,Teamwork,Complete anyway,Train B,Seize the chance,Photography,Practical,Sometimes,Artist
+S0798,Helping,New Ideas,Teamwork,Skip it,Train B,Grab the moment,Learn languages,Practical,Sometimes,Journalist
+S0799,Organizing,New Ideas,Independent,Complete anyway,Train B,Opportunity comes often,Watch tutorials,Avoidant,Sometimes,Scientist
+S0800,Helping,New Ideas,Independent,Complete anyway,Train B,Seize the chance,Watch tutorials,Practical,Sometimes,Leader
+S0801,Creative,Problem-solving,Independent,Skip it,Train A,Opportunity comes often,Learn languages,Practical,Sometimes,Scientist
+S0802,Organizing,New Ideas,Teamwork,Complete anyway,Train A,Seize the chance,Blog,Avoidant,Sometimes,Teacher
+S0803,Organizing,Problem-solving,Independent,Complete anyway,Train B,Opportunity comes often,Design,Avoidant,Sometimes,Analyst
+S0804,Technical,New Ideas,Independent,Find a fun way,Train B,Grab the moment,Code,Supportive,No,Entrepreneur
+S0805,Helping,Problem-solving,Teamwork,Complete anyway,Train B,Seize the chance,Tinker with gadgets,Avoidant,No,Lawyer
+S0806,Organizing,New Ideas,Teamwork,Find a fun way,Train A,Seize the chance,Tinker with gadgets,Avoidant,Sometimes,Journalist
+S0807,Helping,Problem-solving,Independent,Find a fun way,Train A,Seize the chance,Learn languages,Avoidant,No,Entrepreneur
+S0808,Technical,Problem-solving,Teamwork,Skip it,Train A,Grab the moment,Play sports,Practical,Yes,Politician
+S0809,Helping,Problem-solving,Independent,Find a fun way,Train B,Grab the moment,Code,Supportive,Yes,Analyst
+S0810,Organizing,New Ideas,Independent,Skip it,Train A,Seize the chance,Sketch,Supportive,Yes,Engineer
+S0811,Helping,Problem-solving,Teamwork,Find a fun way,Train A,Seize the chance,Design,Practical,Sometimes,Artist
+S0812,Creative,Problem-solving,Independent,Complete anyway,Train A,Grab the moment,Design,Avoidant,Yes,Analyst
+S0813,Technical,Problem-solving,Teamwork,Skip it,Train A,Seize the chance,Blog,Supportive,Yes,Journalist
+S0814,Organizing,Problem-solving,Teamwork,Complete anyway,Train B,Grab the moment,Design,Supportive,No,Artist
+S0815,Technical,New Ideas,Teamwork,Skip it,Train B,Opportunity comes often,Write,Avoidant,Yes,Doctor
+S0816,Creative,New Ideas,Teamwork,Find a fun way,Train A,Grab the moment,Watch tutorials,Avoidant,No,Engineer
+S0817,Creative,New Ideas,Independent,Complete anyway,Train B,Opportunity comes often,Design,Avoidant,Sometimes,Teacher
+S0818,Creative,New Ideas,Independent,Skip it,Train B,Grab the moment,Sketch,Practical,Yes,Engineer
+S0819,Helping,New Ideas,Teamwork,Complete anyway,Train B,Opportunity comes often,Read,Avoidant,Sometimes,Athlete
+S0820,Technical,Problem-solving,Independent,Skip it,Train B,Seize the chance,Write,Practical,Yes,Lawyer
+S0821,Organizing,New Ideas,Independent,Complete anyway,Train B,Grab the moment,Photography,Avoidant,No,Teacher
+S0822,Helping,New Ideas,Independent,Skip it,Train A,Opportunity comes often,Play sports,Supportive,Yes,Scientist
+S0823,Helping,New Ideas,Teamwork,Find a fun way,Train B,Opportunity comes often,Write,Avoidant,Yes,Creator
+S0824,Helping,Problem-solving,Independent,Complete anyway,Train A,Opportunity comes often,Code,Supportive,No,Doctor
+S0825,Creative,Problem-solving,Independent,Skip it,Train A,Opportunity comes often,Play sports,Supportive,Yes,Athlete
+S0826,Helping,Problem-solving,Teamwork,Find a fun way,Train B,Seize the chance,Watch tutorials,Practical,No,Musician
+S0827,Creative,Problem-solving,Independent,Complete anyway,Train A,Opportunity comes often,Write,Avoidant,Sometimes,Politician
+S0828,Organizing,Problem-solving,Independent,Skip it,Train A,Grab the moment,Learn languages,Practical,Sometimes,Journalist
+S0829,Technical,New Ideas,Teamwork,Find a fun way,Train A,Opportunity comes often,Read,Practical,No,Engineer
+S0830,Creative,Problem-solving,Independent,Complete anyway,Train B,Grab the moment,Play sports,Avoidant,Sometimes,Creator
+S0831,Helping,Problem-solving,Independent,Skip it,Train B,Opportunity comes often,Watch tutorials,Avoidant,Yes,Scientist
+S0832,Helping,New Ideas,Independent,Find a fun way,Train A,Opportunity comes often,Watch tutorials,Supportive,Yes,Designer
+S0833,Creative,New Ideas,Independent,Find a fun way,Train A,Seize the chance,Watch tutorials,Practical,Sometimes,Doctor
+S0834,Helping,New Ideas,Independent,Complete anyway,Train A,Seize the chance,Code,Avoidant,Sometimes,Athlete
+S0835,Organizing,New Ideas,Independent,Complete anyway,Train B,Grab the moment,Watch tutorials,Practical,Sometimes,Analyst
+S0836,Organizing,New Ideas,Teamwork,Complete anyway,Train B,Seize the chance,Code,Practical,Sometimes,Lawyer
+S0837,Helping,Problem-solving,Teamwork,Skip it,Train B,Opportunity comes often,Photography,Avoidant,Sometimes,Doctor
+S0838,Creative,Problem-solving,Teamwork,Complete anyway,Train B,Grab the moment,Design,Avoidant,No,Teacher
+S0839,Helping,New Ideas,Independent,Find a fun way,Train A,Seize the chance,Write,Supportive,Yes,Engineer
+S0840,Organizing,Problem-solving,Teamwork,Find a fun way,Train A,Seize the chance,Photography,Avoidant,Yes,Teacher
+S0841,Helping,New Ideas,Teamwork,Skip it,Train B,Grab the moment,Code,Avoidant,Sometimes,Analyst
+S0842,Helping,Problem-solving,Teamwork,Skip it,Train A,Grab the moment,Read,Avoidant,No,Journalist
+S0843,Organizing,Problem-solving,Independent,Find a fun way,Train B,Seize the chance,Write,Avoidant,Sometimes,Doctor
+S0844,Helping,New Ideas,Teamwork,Skip it,Train A,Seize the chance,Play sports,Avoidant,Sometimes,Creator
+S0845,Helping,Problem-solving,Independent,Complete anyway,Train B,Opportunity comes often,Write,Practical,Sometimes,Engineer
+S0846,Organizing,New Ideas,Teamwork,Complete anyway,Train A,Opportunity comes often,Code,Supportive,Yes,Creator
+S0847,Creative,Problem-solving,Teamwork,Find a fun way,Train A,Seize the chance,Photography,Avoidant,Sometimes,Designer
+S0848,Organizing,Problem-solving,Teamwork,Skip it,Train B,Grab the moment,Sketch,Supportive,Yes,Designer
+S0849,Helping,New Ideas,Teamwork,Find a fun way,Train B,Grab the moment,Learn languages,Supportive,Yes,Doctor
+S0850,Technical,Problem-solving,Teamwork,Complete anyway,Train A,Opportunity comes often,Tinker with gadgets,Supportive,No,Analyst
+S0851,Organizing,Problem-solving,Teamwork,Find a fun way,Train A,Opportunity comes often,Write,Practical,No,Athlete
+S0852,Creative,New Ideas,Independent,Skip it,Train A,Opportunity comes often,Design,Avoidant,Yes,Engineer
+S0853,Helping,Problem-solving,Independent,Find a fun way,Train B,Seize the chance,Blog,Avoidant,No,Lawyer
+S0854,Creative,Problem-solving,Independent,Find a fun way,Train A,Seize the chance,Watch tutorials,Practical,Sometimes,Artist
+S0855,Technical,New Ideas,Teamwork,Skip it,Train A,Opportunity comes often,Sketch,Practical,No,Artist
+S0856,Creative,New Ideas,Teamwork,Complete anyway,Train B,Opportunity comes often,Blog,Avoidant,Yes,Creator
+S0857,Technical,Problem-solving,Independent,Find a fun way,Train B,Seize the chance,Design,Avoidant,No,Creator
+S0858,Helping,New Ideas,Independent,Complete anyway,Train A,Opportunity comes often,Watch tutorials,Avoidant,No,Artist
+S0859,Creative,Problem-solving,Teamwork,Complete anyway,Train B,Grab the moment,Read,Avoidant,No,Athlete
+S0860,Creative,Problem-solving,Teamwork,Find a fun way,Train A,Opportunity comes often,Write,Supportive,Sometimes,Athlete
+S0861,Helping,New Ideas,Teamwork,Find a fun way,Train A,Opportunity comes often,Write,Supportive,Sometimes,Athlete
+S0862,Creative,New Ideas,Independent,Skip it,Train A,Grab the moment,Play sports,Supportive,No,Leader
+S0863,Helping,New Ideas,Independent,Skip it,Train B,Opportunity comes often,Blog,Practical,Yes,Teacher
+S0864,Helping,Problem-solving,Teamwork,Skip it,Train A,Seize the chance,Blog,Avoidant,Sometimes,Engineer
+S0865,Helping,New Ideas,Independent,Complete anyway,Train A,Seize the chance,Read,Supportive,Sometimes,Journalist
+S0866,Technical,New Ideas,Teamwork,Skip it,Train B,Opportunity comes often,Sketch,Avoidant,Yes,Engineer
+S0867,Organizing,New Ideas,Teamwork,Complete anyway,Train B,Opportunity comes often,Blog,Avoidant,No,Engineer
+S0868,Creative,Problem-solving,Independent,Complete anyway,Train B,Grab the moment,Blog,Supportive,Sometimes,Analyst
+S0869,Technical,New Ideas,Independent,Skip it,Train A,Seize the chance,Tinker with gadgets,Supportive,Yes,Teacher
+S0870,Technical,New Ideas,Teamwork,Find a fun way,Train B,Seize the chance,Blog,Avoidant,No,Leader
+S0871,Helping,New Ideas,Independent,Find a fun way,Train B,Seize the chance,Blog,Practical,Yes,Artist
+S0872,Helping,Problem-solving,Independent,Complete anyway,Train B,Opportunity comes often,Read,Supportive,Yes,Journalist
+S0873,Organizing,Problem-solving,Independent,Skip it,Train A,Grab the moment,Learn languages,Avoidant,No,Artist
+S0874,Organizing,New Ideas,Teamwork,Find a fun way,Train A,Grab the moment,Design,Supportive,Sometimes,Artist
+S0875,Technical,New Ideas,Independent,Find a fun way,Train B,Seize the chance,Blog,Avoidant,Sometimes,Doctor
+S0876,Technical,Problem-solving,Independent,Skip it,Train A,Grab the moment,Write,Supportive,Yes,Doctor
+S0877,Helping,Problem-solving,Independent,Complete anyway,Train A,Seize the chance,Photography,Practical,No,Designer
+S0878,Technical,Problem-solving,Independent,Skip it,Train B,Seize the chance,Code,Practical,Yes,Entrepreneur
+S0879,Creative,New Ideas,Independent,Skip it,Train A,Grab the moment,Tinker with gadgets,Avoidant,Sometimes,Artist
+S0880,Technical,Problem-solving,Teamwork,Complete anyway,Train B,Grab the moment,Photography,Practical,No,Scientist
+S0881,Creative,Problem-solving,Independent,Skip it,Train A,Seize the chance,Tinker with gadgets,Supportive,Yes,Lawyer
+S0882,Helping,New Ideas,Independent,Skip it,Train A,Opportunity comes often,Code,Avoidant,Yes,Politician
+S0883,Helping,Problem-solving,Teamwork,Skip it,Train A,Opportunity comes often,Tinker with gadgets,Supportive,Sometimes,Doctor
+S0884,Organizing,New Ideas,Independent,Complete anyway,Train A,Opportunity comes often,Photography,Practical,Yes,Designer
+S0885,Helping,New Ideas,Teamwork,Complete anyway,Train B,Seize the chance,Code,Supportive,Yes,Creator
+S0886,Technical,New Ideas,Independent,Skip it,Train B,Grab the moment,Read,Supportive,Yes,Politician
+S0887,Helping,New Ideas,Teamwork,Skip it,Train B,Seize the chance,Watch tutorials,Avoidant,No,Analyst
+S0888,Organizing,Problem-solving,Independent,Complete anyway,Train A,Opportunity comes often,Sketch,Avoidant,Sometimes,Teacher
+S0889,Technical,Problem-solving,Independent,Skip it,Train B,Opportunity comes often,Tinker with gadgets,Practical,Yes,Entrepreneur
+S0890,Creative,New Ideas,Independent,Find a fun way,Train B,Opportunity comes often,Learn languages,Supportive,Yes,Teacher
+S0891,Helping,Problem-solving,Independent,Skip it,Train B,Grab the moment,Read,Supportive,Sometimes,Leader
+S0892,Organizing,Problem-solving,Independent,Find a fun way,Train B,Opportunity comes often,Sketch,Practical,No,Entrepreneur
+S0893,Organizing,New Ideas,Independent,Complete anyway,Train A,Opportunity comes often,Write,Practical,Yes,Designer
+S0894,Technical,New Ideas,Teamwork,Find a fun way,Train A,Grab the moment,Sketch,Supportive,Yes,Politician
+S0895,Organizing,New Ideas,Independent,Complete anyway,Train B,Grab the moment,Read,Avoidant,Sometimes,Artist
+S0896,Organizing,New Ideas,Independent,Find a fun way,Train B,Opportunity comes often,Learn languages,Avoidant,Yes,Analyst
+S0897,Helping,Problem-solving,Teamwork,Complete anyway,Train B,Seize the chance,Design,Avoidant,Sometimes,Lawyer
+S0898,Organizing,Problem-solving,Teamwork,Complete anyway,Train B,Grab the moment,Play sports,Supportive,Yes,Scientist
+S0899,Creative,Problem-solving,Teamwork,Skip it,Train A,Opportunity comes often,Code,Avoidant,No,Musician
+S0900,Technical,New Ideas,Teamwork,Find a fun way,Train A,Opportunity comes often,Write,Supportive,No,Doctor
+S0901,Technical,Problem-solving,Independent,Skip it,Train A,Seize the chance,Tinker with gadgets,Avoidant,Yes,Artist
+S0902,Organizing,Problem-solving,Teamwork,Complete anyway,Train B,Seize the chance,Watch tutorials,Avoidant,No,Doctor
+S0903,Organizing,Problem-solving,Teamwork,Complete anyway,Train B,Seize the chance,Write,Practical,No,Lawyer
+S0904,Organizing,New Ideas,Teamwork,Skip it,Train A,Grab the moment,Learn languages,Avoidant,Sometimes,Musician
+S0905,Creative,Problem-solving,Independent,Complete anyway,Train B,Grab the moment,Write,Supportive,No,Artist
+S0906,Helping,Problem-solving,Teamwork,Skip it,Train B,Opportunity comes often,Watch tutorials,Practical,No,Entrepreneur
+S0907,Technical,Problem-solving,Teamwork,Skip it,Train A,Opportunity comes often,Read,Avoidant,No,Athlete
+S0908,Organizing,New Ideas,Teamwork,Find a fun way,Train B,Seize the chance,Tinker with gadgets,Avoidant,Yes,Teacher
+S0909,Helping,Problem-solving,Teamwork,Find a fun way,Train B,Opportunity comes often,Play sports,Avoidant,Sometimes,Designer
+S0910,Organizing,New Ideas,Independent,Complete anyway,Train B,Seize the chance,Blog,Supportive,Yes,Journalist
+S0911,Organizing,New Ideas,Independent,Find a fun way,Train A,Seize the chance,Tinker with gadgets,Supportive,Yes,Journalist
+S0912,Technical,New Ideas,Independent,Complete anyway,Train B,Opportunity comes often,Tinker with gadgets,Supportive,No,Journalist
+S0913,Technical,Problem-solving,Independent,Complete anyway,Train A,Grab the moment,Code,Practical,Sometimes,Scientist
+S0914,Creative,Problem-solving,Independent,Complete anyway,Train B,Seize the chance,Write,Supportive,No,Journalist
+S0915,Creative,Problem-solving,Independent,Skip it,Train A,Seize the chance,Read,Practical,No,Engineer
+S0916,Helping,New Ideas,Independent,Complete anyway,Train B,Opportunity comes often,Tinker with gadgets,Practical,Sometimes,Designer
+S0917,Technical,New Ideas,Independent,Find a fun way,Train A,Opportunity comes often,Play sports,Supportive,No,Analyst
+S0918,Technical,Problem-solving,Independent,Skip it,Train A,Grab the moment,Code,Practical,Sometimes,Scientist
+S0919,Technical,Problem-solving,Teamwork,Find a fun way,Train B,Grab the moment,Photography,Supportive,No,Journalist
+S0920,Technical,Problem-solving,Teamwork,Complete anyway,Train A,Opportunity comes often,Tinker with gadgets,Supportive,No,Athlete
+S0921,Helping,New Ideas,Teamwork,Complete anyway,Train B,Seize the chance,Design,Supportive,No,Leader
+S0922,Organizing,Problem-solving,Independent,Skip it,Train A,Grab the moment,Watch tutorials,Avoidant,Sometimes,Athlete
+S0923,Helping,New Ideas,Teamwork,Complete anyway,Train A,Opportunity comes often,Watch tutorials,Practical,No,Doctor
+S0924,Creative,New Ideas,Independent,Skip it,Train A,Grab the moment,Watch tutorials,Practical,Yes,Engineer
+S0925,Helping,New Ideas,Teamwork,Find a fun way,Train A,Seize the chance,Read,Supportive,Sometimes,Teacher
+S0926,Organizing,Problem-solving,Independent,Complete anyway,Train B,Opportunity comes often,Design,Avoidant,Yes,Entrepreneur
+S0927,Organizing,Problem-solving,Independent,Find a fun way,Train A,Opportunity comes often,Blog,Supportive,Sometimes,Scientist
+S0928,Creative,Problem-solving,Independent,Find a fun way,Train B,Grab the moment,Photography,Practical,Sometimes,Creator
+S0929,Organizing,Problem-solving,Teamwork,Skip it,Train A,Opportunity comes often,Watch tutorials,Supportive,Sometimes,Athlete
+S0930,Technical,New Ideas,Teamwork,Complete anyway,Train A,Grab the moment,Learn languages,Avoidant,Yes,Artist
+S0931,Organizing,New Ideas,Independent,Find a fun way,Train A,Opportunity comes often,Watch tutorials,Practical,Yes,Politician
+S0932,Organizing,New Ideas,Independent,Complete anyway,Train B,Opportunity comes often,Photography,Avoidant,Sometimes,Analyst
+S0933,Creative,Problem-solving,Teamwork,Find a fun way,Train A,Seize the chance,Blog,Supportive,No,Designer
+S0934,Creative,Problem-solving,Independent,Complete anyway,Train A,Opportunity comes often,Watch tutorials,Supportive,Sometimes,Designer
+S0935,Technical,Problem-solving,Independent,Complete anyway,Train B,Opportunity comes often,Tinker with gadgets,Supportive,No,Doctor
+S0936,Organizing,New Ideas,Teamwork,Complete anyway,Train A,Grab the moment,Design,Practical,No,Designer
+S0937,Helping,New Ideas,Teamwork,Complete anyway,Train B,Seize the chance,Sketch,Supportive,Yes,Musician
+S0938,Organizing,Problem-solving,Independent,Skip it,Train A,Grab the moment,Watch tutorials,Practical,Yes,Musician
+S0939,Creative,Problem-solving,Independent,Skip it,Train B,Grab the moment,Design,Supportive,Yes,Leader
+S0940,Helping,Problem-solving,Teamwork,Skip it,Train B,Grab the moment,Watch tutorials,Supportive,Yes,Athlete
+S0941,Technical,New Ideas,Teamwork,Skip it,Train B,Opportunity comes often,Code,Avoidant,Sometimes,Entrepreneur
+S0942,Organizing,Problem-solving,Independent,Find a fun way,Train A,Opportunity comes often,Write,Avoidant,No,Lawyer
+S0943,Technical,Problem-solving,Teamwork,Skip it,Train B,Grab the moment,Design,Practical,Yes,Creator
+S0944,Helping,New Ideas,Independent,Skip it,Train B,Grab the moment,Write,Supportive,Sometimes,Journalist
+S0945,Creative,New Ideas,Independent,Complete anyway,Train B,Opportunity comes often,Design,Avoidant,Yes,Creator
+S0946,Creative,New Ideas,Teamwork,Find a fun way,Train A,Opportunity comes often,Photography,Avoidant,Yes,Journalist
+S0947,Creative,Problem-solving,Independent,Complete anyway,Train B,Opportunity comes often,Play sports,Practical,No,Journalist
+S0948,Helping,New Ideas,Teamwork,Skip it,Train B,Grab the moment,Blog,Practical,Yes,Entrepreneur
+S0949,Creative,New Ideas,Independent,Find a fun way,Train B,Seize the chance,Code,Supportive,Sometimes,Teacher
+S0950,Helping,New Ideas,Teamwork,Find a fun way,Train A,Opportunity comes often,Play sports,Avoidant,Sometimes,Designer
+S0951,Technical,New Ideas,Independent,Find a fun way,Train B,Grab the moment,Tinker with gadgets,Avoidant,Sometimes,Teacher
+S0952,Organizing,New Ideas,Teamwork,Complete anyway,Train B,Grab the moment,Learn languages,Avoidant,No,Teacher
+S0953,Technical,Problem-solving,Teamwork,Skip it,Train B,Grab the moment,Blog,Supportive,No,Lawyer
+S0954,Helping,Problem-solving,Independent,Complete anyway,Train A,Seize the chance,Read,Practical,Sometimes,Scientist
+S0955,Creative,New Ideas,Independent,Complete anyway,Train A,Seize the chance,Tinker with gadgets,Practical,Yes,Engineer
+S0956,Creative,New Ideas,Independent,Skip it,Train B,Grab the moment,Design,Supportive,No,Leader
+S0957,Helping,New Ideas,Independent,Find a fun way,Train B,Grab the moment,Play sports,Supportive,No,Leader
+S0958,Helping,Problem-solving,Teamwork,Complete anyway,Train A,Seize the chance,Photography,Practical,No,Musician
+S0959,Helping,Problem-solving,Independent,Complete anyway,Train A,Grab the moment,Tinker with gadgets,Avoidant,No,Leader
+S0960,Helping,New Ideas,Independent,Skip it,Train B,Opportunity comes often,Write,Practical,Sometimes,Musician
+S0961,Technical,Problem-solving,Independent,Complete anyway,Train B,Grab the moment,Photography,Practical,Yes,Teacher
+S0962,Technical,New Ideas,Teamwork,Find a fun way,Train B,Grab the moment,Blog,Practical,Sometimes,Musician
+S0963,Technical,Problem-solving,Independent,Find a fun way,Train A,Seize the chance,Photography,Practical,Yes,Teacher
+S0964,Technical,Problem-solving,Independent,Complete anyway,Train A,Seize the chance,Learn languages,Supportive,Yes,Teacher
+S0965,Organizing,New Ideas,Independent,Find a fun way,Train B,Grab the moment,Play sports,Avoidant,Sometimes,Analyst
+S0966,Organizing,New Ideas,Independent,Find a fun way,Train B,Seize the chance,Learn languages,Avoidant,Sometimes,Designer
+S0967,Creative,New Ideas,Teamwork,Complete anyway,Train A,Seize the chance,Play sports,Avoidant,Sometimes,Politician
+S0968,Technical,Problem-solving,Teamwork,Complete anyway,Train A,Opportunity comes often,Read,Supportive,Sometimes,Entrepreneur
+S0969,Organizing,Problem-solving,Teamwork,Complete anyway,Train B,Opportunity comes often,Write,Avoidant,No,Leader
+S0970,Organizing,Problem-solving,Independent,Find a fun way,Train A,Grab the moment,Code,Practical,Yes,Politician
+S0971,Organizing,Problem-solving,Teamwork,Find a fun way,Train A,Grab the moment,Learn languages,Supportive,Sometimes,Teacher
+S0972,Organizing,New Ideas,Independent,Complete anyway,Train B,Opportunity comes often,Blog,Supportive,Sometimes,Entrepreneur
+S0973,Helping,New Ideas,Teamwork,Find a fun way,Train B,Grab the moment,Read,Supportive,Sometimes,Leader
+S0974,Organizing,New Ideas,Independent,Complete anyway,Train A,Grab the moment,Blog,Supportive,No,Journalist
+S0975,Organizing,New Ideas,Independent,Find a fun way,Train B,Seize the chance,Design,Supportive,Yes,Creator
+S0976,Organizing,New Ideas,Teamwork,Complete anyway,Train A,Grab the moment,Watch tutorials,Avoidant,Yes,Engineer
+S0977,Helping,New Ideas,Independent,Skip it,Train A,Grab the moment,Design,Avoidant,No,Designer
+S0978,Organizing,New Ideas,Teamwork,Complete anyway,Train B,Grab the moment,Watch tutorials,Avoidant,No,Doctor
+S0979,Technical,Problem-solving,Independent,Find a fun way,Train A,Seize the chance,Photography,Practical,Yes,Musician
+S0980,Technical,Problem-solving,Teamwork,Find a fun way,Train B,Opportunity comes often,Read,Practical,Sometimes,Doctor
+S0981,Helping,Problem-solving,Independent,Find a fun way,Train A,Seize the chance,Design,Supportive,No,Leader
+S0982,Creative,New Ideas,Teamwork,Complete anyway,Train A,Seize the chance,Watch tutorials,Supportive,Yes,Teacher
+S0983,Organizing,New Ideas,Teamwork,Complete anyway,Train B,Seize the chance,Sketch,Supportive,Sometimes,Musician
+S0984,Helping,New Ideas,Independent,Complete anyway,Train A,Opportunity comes often,Watch tutorials,Supportive,Sometimes,Analyst
+S0985,Helping,Problem-solving,Independent,Complete anyway,Train A,Grab the moment,Play sports,Practical,Sometimes,Entrepreneur
+S0986,Organizing,Problem-solving,Teamwork,Skip it,Train A,Seize the chance,Blog,Supportive,Sometimes,Scientist
+S0987,Organizing,New Ideas,Teamwork,Find a fun way,Train B,Seize the chance,Blog,Practical,No,Journalist
+S0988,Organizing,Problem-solving,Independent,Complete anyway,Train A,Seize the chance,Design,Avoidant,Yes,Journalist
+S0989,Helping,Problem-solving,Teamwork,Find a fun way,Train B,Opportunity comes often,Photography,Supportive,No,Entrepreneur
+S0990,Organizing,New Ideas,Teamwork,Find a fun way,Train B,Opportunity comes often,Learn languages,Supportive,No,Scientist
+S0991,Organizing,Problem-solving,Independent,Complete anyway,Train B,Grab the moment,Play sports,Practical,Sometimes,Teacher
+S0992,Helping,New Ideas,Independent,Complete anyway,Train A,Opportunity comes often,Design,Supportive,No,Musician
+S0993,Technical,Problem-solving,Teamwork,Complete anyway,Train B,Grab the moment,Learn languages,Practical,No,Creator
+S0994,Helping,New Ideas,Teamwork,Find a fun way,Train A,Seize the chance,Play sports,Avoidant,Sometimes,Journalist
+S0995,Technical,Problem-solving,Teamwork,Complete anyway,Train A,Grab the moment,Play sports,Practical,No,Artist
+S0996,Organizing,New Ideas,Independent,Find a fun way,Train B,Opportunity comes often,Learn languages,Supportive,No,Entrepreneur
+S0997,Organizing,New Ideas,Independent,Find a fun way,Train B,Grab the moment,Sketch,Practical,No,Creator
+S0998,Creative,New Ideas,Teamwork,Complete anyway,Train B,Grab the moment,Learn languages,Supportive,No,Leader
+S0999,Technical,New Ideas,Teamwork,Skip it,Train A,Opportunity comes often,Sketch,Avoidant,No,Journalist
+S1000,Organizing,Problem-solving,Independent,Skip it,Train A,Grab the moment,Write,Supportive,Yes,Creator

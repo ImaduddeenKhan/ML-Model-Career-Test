@@ -1,0 +1,864 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI-Powered Career Guidance Test</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"/>
+    <style>
+        :root {
+            --primary-color: #4361ee;
+            --secondary-color: #3f37c9;
+            --accent-color: #4cc9f0;
+            --light-color: #f8f9fa;
+            --dark-color: #212529;
+            --success-color: #4CAF50;
+            --info-color: #2196F3;
+            --warning-color: #ff9800;
+        }
+        
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: #f5f7fa;
+            color: var(--dark-color);
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+        }
+        
+        .navbar {
+            background-color: var(--primary-color);
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+        }
+        
+        .navbar-brand {
+            font-weight: 700;
+            color: white !important;
+        }
+        
+        .container {
+            max-width: 800px;
+            margin-top: 2rem;
+            margin-bottom: 2rem;
+            flex: 1;
+        }
+        
+        .chat-container {
+            background-color: white;
+            border-radius: 15px;
+            box-shadow: 0 5px 15px rgba(0, 0, 0, 0.08);
+            overflow: hidden;
+            display: flex;
+            flex-direction: column;
+            height: 80vh;
+            max-height: 700px;
+        }
+        
+        .chat-header {
+            background-color: var(--primary-color);
+            color: white;
+            padding: 15px 20px;
+            font-weight: 600;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+        }
+        
+        .chat-header .status {
+            font-size: 0.8rem;
+            opacity: 0.8;
+        }
+        
+        .chat-messages {
+            flex: 1;
+            overflow-y: auto;
+            padding: 20px;
+            display: flex;
+            flex-direction: column;
+        }
+        
+        .message {
+            max-width: 80%;
+            margin-bottom: 15px;
+            padding: 12px 15px;
+            border-radius: 18px;
+            position: relative;
+            animation-duration: 0.3s;
+        }
+        
+        .message-bot {
+            background-color: #f1f0f0;
+            color: var(--dark-color);
+            align-self: flex-start;
+            border-bottom-left-radius: 5px;
+            animation-name: fadeInLeft;
+        }
+        
+        .message-user {
+            background-color: var(--primary-color);
+            color: white;
+            align-self: flex-end;
+            border-bottom-right-radius: 5px;
+            animation-name: fadeInRight;
+        }
+        
+        .message-time {
+            font-size: 0.7rem;
+            opacity: 0.7;
+            margin-top: 5px;
+            text-align: right;
+        }
+        
+        .options-container {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 10px;
+            margin-top: 10px;
+        }
+        
+        .option-button {
+            background-color: var(--light-color);
+            border: 1px solid #ddd;
+            border-radius: 20px;
+            padding: 8px 15px;
+            font-size: 0.9rem;
+            cursor: pointer;
+            transition: all 0.2s;
+        }
+        
+        .option-button:hover {
+            background-color: var(--primary-color);
+            color: white;
+            transform: translateY(-2px);
+        }
+        
+        .chat-input {
+            padding: 15px;
+            background-color: #f9f9f9;
+            border-top: 1px solid #eee;
+            display: flex;
+        }
+        
+        .chat-input input {
+            flex: 1;
+            padding: 12px 15px;
+            border: 1px solid #ddd;
+            border-radius: 25px;
+            outline: none;
+        }
+        
+        .chat-input button {
+            background-color: var(--primary-color);
+            color: white;
+            border: none;
+            border-radius: 25px;
+            padding: 12px 20px;
+            margin-left: 10px;
+            cursor: pointer;
+            transition: all 0.2s;
+        }
+        
+        .chat-input button:hover {
+            background-color: var(--secondary-color);
+            transform: translateY(-2px);
+        }
+        
+        .chat-input button:disabled {
+            background-color: #cccccc;
+            cursor: not-allowed;
+            transform: none;
+        }
+        
+        .typing-indicator {
+            display: flex;
+            align-items: center;
+            margin-top: 5px;
+        }
+        
+        .typing-indicator span {
+            height: 8px;
+            width: 8px;
+            background-color: #bbb;
+            border-radius: 50%;
+            display: inline-block;
+            margin-right: 5px;
+            animation: typing 1s infinite;
+        }
+        
+        .typing-indicator span:nth-child(2) {
+            animation-delay: 0.2s;
+        }
+        
+        .typing-indicator span:nth-child(3) {
+            animation-delay: 0.4s;
+        }
+        
+        @keyframes typing {
+            0% { transform: translateY(0); }
+            50% { transform: translateY(-5px); }
+            100% { transform: translateY(0); }
+        }
+        
+        .results-container {
+            background-color: white;
+            border-radius: 15px;
+            box-shadow: 0 5px 15px rgba(0, 0, 0, 0.08);
+            padding: 25px;
+            margin-top: 20px;
+            animation: fadeIn 0.5s;
+        }
+        
+        .results-header {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+        
+        .personality-type {
+            background-color: var(--primary-color);
+            color: white;
+            padding: 10px 20px;
+            border-radius: 30px;
+            display: inline-block;
+            margin-bottom: 15px;
+            font-weight: 600;
+        }
+        
+        .guidance-section {
+            margin-bottom: 25px;
+        }
+        
+        .guidance-section h4 {
+            color: var(--primary-color);
+            margin-bottom: 15px;
+            border-bottom: 2px solid var(--accent-color);
+            padding-bottom: 5px;
+            display: inline-block;
+        }
+        
+        .guidance-list {
+            list-style-type: none;
+            padding-left: 0;
+        }
+        
+        .guidance-list li {
+            padding: 8px 0;
+            position: relative;
+            padding-left: 25px;
+        }
+        
+        .guidance-list li:before {
+            content: "✓";
+            color: var(--success-color);
+            position: absolute;
+            left: 0;
+            font-weight: bold;
+        }
+        
+        .guidance-list.donts li:before {
+            content: "✗";
+            color: var(--warning-color);
+        }
+        
+        .career-card {
+            background-color: #f8f9fa;
+            border-radius: 10px;
+            padding: 15px;
+            margin-bottom: 15px;
+            border-left: 5px solid var(--primary-color);
+            transition: all 0.3s;
+        }
+        
+        .career-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+        }
+        
+        .career-title {
+            font-weight: 600;
+            color: var(--primary-color);
+            margin-bottom: 5px;
+        }
+        
+        .career-match {
+            font-size: 0.9rem;
+            color: var(--secondary-color);
+        }
+        
+        .fact-card {
+            background-color: #f0f7ff;
+            border-radius: 10px;
+            padding: 15px;
+            margin-bottom: 15px;
+            border-left: 5px solid var(--info-color);
+        }
+        
+        .insight-card {
+            background-color: #f0fff7;
+            border-radius: 10px;
+            padding: 15px;
+            margin-bottom: 15px;
+            border-left: 5px solid var(--success-color);
+        }
+        
+        .action-buttons {
+            display: flex;
+            justify-content: center;
+            gap: 15px;
+            margin-top: 30px;
+        }
+        
+        .action-button {
+            padding: 12px 25px;
+            border-radius: 30px;
+            font-weight: 600;
+            transition: all 0.3s;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+        
+        .action-button:hover {
+            transform: translateY(-3px);
+            box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+        }
+        
+        .btn-restart {
+            background-color: var(--light-color);
+            color: var(--dark-color);
+            border: 1px solid #ddd;
+        }
+        
+        .btn-download {
+            background-color: var(--primary-color);
+            color: white;
+            border: none;
+        }
+        
+        .hidden {
+            display: none;
+        }
+        
+        .footer {
+            text-align: center;
+            padding: 20px;
+            background-color: var(--light-color);
+            margin-top: auto;
+        }
+        
+        /* Responsive adjustments */
+        @media (max-width: 768px) {
+            .container {
+                padding: 0 15px;
+            }
+            
+            .chat-container {
+                height: 70vh;
+            }
+            
+            .message {
+                max-width: 90%;
+            }
+            
+            .action-buttons {
+                flex-direction: column;
+            }
+        }
+        
+        /* Animations */
+        @keyframes fadeIn {
+            from { opacity: 0; transform: translateY(20px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+        
+        @keyframes fadeInLeft {
+            from { opacity: 0; transform: translateX(-20px); }
+            to { opacity: 1; transform: translateX(0); }
+        }
+        
+        @keyframes fadeInRight {
+            from { opacity: 0; transform: translateX(20px); }
+            to { opacity: 1; transform: translateX(0); }
+        }
+        
+        /* Loading animation */
+        .loader {
+            display: inline-block;
+            position: relative;
+            width: 80px;
+            height: 80px;
+            margin: 0 auto;
+        }
+        
+        .loader div {
+            position: absolute;
+            top: 33px;
+            width: 13px;
+            height: 13px;
+            border-radius: 50%;
+            background: var(--primary-color);
+            animation-timing-function: cubic-bezier(0, 1, 1, 0);
+        }
+        
+        .loader div:nth-child(1) {
+            left: 8px;
+            animation: loader1 0.6s infinite;
+        }
+        
+        .loader div:nth-child(2) {
+            left: 8px;
+            animation: loader2 0.6s infinite;
+        }
+        
+        .loader div:nth-child(3) {
+            left: 32px;
+            animation: loader2 0.6s infinite;
+        }
+        
+        .loader div:nth-child(4) {
+            left: 56px;
+            animation: loader3 0.6s infinite;
+        }
+        
+        @keyframes loader1 {
+            0% { transform: scale(0); }
+            100% { transform: scale(1); }
+        }
+        
+        @keyframes loader3 {
+            0% { transform: scale(1); }
+            100% { transform: scale(0); }
+        }
+        
+        @keyframes loader2 {
+            0% { transform: translate(0, 0); }
+            100% { transform: translate(24px, 0); }
+        }
+        
+        .loading-container {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            height: 100%;
+            text-align: center;
+        }
+        
+        .loading-text {
+            margin-top: 20px;
+            font-weight: 600;
+            color: var(--primary-color);
+        }
+    </style>
+</head>
+<body>
+    <nav class="navbar navbar-expand-lg navbar-dark">
+        <div class="container-fluid">
+            <a class="navbar-brand" href="#">AI-Powered Career Guidance</a>
+        </div>
+    </nav>
+    
+    <div class="container">
+        <div id="intro-container" class="text-center mb-4">
+            <h1 class="mb-3">Discover Your Ideal Career Path</h1>
+            <p class="lead">Answer a few questions and our AI will analyze your interests, skills, and preferences to suggest the best career paths for you.</p>
+            <button id="start-test-btn" class="btn btn-primary btn-lg mt-3">Start Career Test</button>
+        </div>
+        
+        <div id="chat-container" class="chat-container hidden">
+            <div class="chat-header">
+                <div>Career Guidance Assistant</div>
+                <div class="status">Online</div>
+            </div>
+            
+            <div id="chat-messages" class="chat-messages">
+                <!-- Messages will be added here dynamically -->
+            </div>
+            
+            <div id="chat-input" class="chat-input">
+                <input type="text" id="user-input" placeholder="Type your answer..." disabled>
+                <button id="send-btn" disabled>Send</button>
+            </div>
+        </div>
+        
+        <div id="results-container" class="results-container hidden">
+            <!-- Results will be added here dynamically -->
+        </div>
+    </div>
+    
+    <footer class="footer">
+        <div class="container">
+            <p class="mb-0">© 2025 AI-Powered Career Guidance Platform</p>
+        </div>
+    </footer>
+    
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"></script>
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            // DOM Elements
+            const introContainer = document.getElementById('intro-container');
+            const chatContainer = document.getElementById('chat-container');
+            const resultsContainer = document.getElementById('results-container');
+            const chatMessages = document.getElementById('chat-messages');
+            const userInput = document.getElementById('user-input');
+            const sendBtn = document.getElementById('send-btn');
+            const startTestBtn = document.getElementById('start-test-btn');
+            
+            // State variables
+            let currentQuestionIndex = 0;
+            let userAnswers = {};
+            let currentQuestion = null;
+            let waitingForAnswer = false;
+            let testCompleted = false;
+            
+            // Event listeners
+            startTestBtn.addEventListener('click', startTest);
+            sendBtn.addEventListener('click', handleSendMessage);
+            userInput.addEventListener('keypress', function(e) {
+                if (e.key === 'Enter' && !sendBtn.disabled) {
+                    handleSendMessage();
+                }
+            });
+            
+            // Functions
+            function startTest() {
+                introContainer.classList.add('hidden');
+                chatContainer.classList.remove('hidden');
+                
+                // Add welcome message
+                addBotMessage("👋 Hi there! I'm your AI Career Guide. I'll ask you some questions to understand your interests and skills better.");
+                
+                setTimeout(() => {
+                    addBotMessage("Let's get started with your career assessment. Please answer honestly for the most accurate results.");
+                    getNextQuestion();
+                }, 1000);
+            }
+            
+            function getNextQuestion() {
+                // Show typing indicator
+                showTypingIndicator();
+                
+                // Fetch the next question from the API
+                fetch(`/api/question?index=${currentQuestionIndex}&answers=${encodeURIComponent(JSON.stringify(userAnswers))}`)
+                    .then(response => response.json())
+                    .then(data => {
+                        // Remove typing indicator
+                        removeTypingIndicator();
+                        
+                        currentQuestion = data.question;
+                        
+                        // If this is the last question and we've answered enough questions
+                        if (data.is_last && currentQuestionIndex >= 9) {
+                            addBotMessage("Thanks for answering all the questions! I'm now analyzing your responses to generate personalized career recommendations.");
+                            completeTest();
+                            return;
+                        }
+                        
+                        // Display the question
+                        const questionText = currentQuestion.text;
+                        addBotMessage(questionText, currentQuestion.options);
+                        
+                        waitingForAnswer = true;
+                        currentQuestionIndex++;
+                    })
+                    .catch(error => {
+                        console.error('Error fetching question:', error);
+                        removeTypingIndicator();
+                        addBotMessage("Sorry, I encountered an error. Please try again later.");
+                    });
+            }
+            
+            function handleSendMessage() {
+                if (!waitingForAnswer || !currentQuestion) return;
+                
+                const answer = userInput.value.trim();
+                if (!answer && !document.querySelector('.option-button.selected')) {
+                    return;
+                }
+                
+                // Get selected option if using buttons
+                const selectedOption = document.querySelector('.option-button.selected');
+                const finalAnswer = selectedOption ? selectedOption.textContent : answer;
+                
+                // Add user message to chat
+                addUserMessage(finalAnswer);
+                
+                // Store the answer
+                userAnswers[currentQuestion.id] = finalAnswer;
+                
+                // Clear input and disable until next question
+                userInput.value = '';
+                userInput.disabled = true;
+                sendBtn.disabled = true;
+                waitingForAnswer = false;
+                
+                // Get next question after a short delay
+                setTimeout(getNextQuestion, 800);
+            }
+            
+            function completeTest() {
+                // Show loading animation
+                showLoadingAnimation();
+                
+                // Send answers to the API for prediction
+                fetch('/api/predict', {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json'
+                    },
+                    body: JSON.stringify({ answers: userAnswers })
+                })
+                .then(response => response.json())
+                .then(results => {
+                    // Remove loading animation
+                    removeLoadingAnimation();
+                    
+                    // Store results for PDF generation
+                    window.testResults = results;
+                    
+                    // Display completion message
+                    addBotMessage("I've analyzed your responses and prepared your personalized career guidance report! Here are your results:");
+                    
+                    // Show results after a short delay
+                    setTimeout(() => {
+                        displayResults(results);
+                    }, 1000);
+                })
+                .catch(error => {
+                    console.error('Error predicting career:', error);
+                    removeLoadingAnimation();
+                    addBotMessage("Sorry, I encountered an error analyzing your responses. Please try again later.");
+                });
+            }
+            
+            function displayResults(results) {
+                // Hide chat container and show results
+                chatContainer.classList.add('hidden');
+                resultsContainer.classList.remove('hidden');
+                
+                // Build results HTML
+                let resultsHTML = `
+                    <div class="results-header">
+                        <h2>Your Career Guidance Report</h2>
+                        <div class="personality-type">${results.personality_type}</div>
+                    </div>
+                    
+                    <div class="row">
+                        <div class="col-md-6">
+                            <div class="guidance-section">
+                                <h4>Do's</h4>
+                                <ul class="guidance-list">
+                                    ${results.dos.map(item => `<li>${item}</li>`).join('')}
+                                </ul>
+                            </div>
+                        </div>
+                        
+                        <div class="col-md-6">
+                            <div class="guidance-section">
+                                <h4>Don'ts</h4>
+                                <ul class="guidance-list donts">
+                                    ${results.donts.map(item => `<li>${item}</li>`).join('')}
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="guidance-section">
+                        <h4>Top Career Matches</h4>
+                        <div class="row">
+                            ${results.top_careers.map((career, index) => `
+                                <div class="col-md-4">
+                                    <div class="career-card">
+                                        <div class="career-title">${index + 1}. ${career.career}</div>
+                                        <div class="career-match">Match: ${(career.probability * 100).toFixed(1)}%</div>
+                                    </div>
+                                </div>
+                            `).join('')}
+                        </div>
+                    </div>
+                    
+                    <div class="guidance-section">
+                        <h4>Career Facts</h4>
+                        ${results.career_facts.map(fact => `
+                            <div class="fact-card">
+                                ${fact}
+                            </div>
+                        `).join('')}
+                    </div>
+                    
+                    <div class="guidance-section">
+                        <h4>Personal Insights</h4>
+                        ${results.personal_insights.map(insight => `
+                            <div class="insight-card">
+                                ${insight}
+                            </div>
+                        `).join('')}
+                    </div>
+                    
+                    <div class="action-buttons">
+                        <button class="btn action-button btn-restart" onclick="location.reload()">
+                            <i class="fas fa-redo"></i> Restart Test
+                        </button>
+                        <button class="btn action-button btn-download" onclick="generatePDF()">
+                            <i class="fas fa-file-pdf"></i> Download PDF Report
+                        </button>
+                    </div>
+                `;
+                
+                resultsContainer.innerHTML = resultsHTML;
+                
+                // Scroll to results
+                resultsContainer.scrollIntoView({ behavior: 'smooth' });
+            }
+            
+            function generatePDF() {
+                if (!window.testResults) return;
+                
+                fetch('/api/generate-pdf', {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json'
+                    },
+                    body: JSON.stringify(window.testResults)
+                })
+                .then(response => response.blob())
+                .then(blob => {
+                    // Create a link to download the PDF
+                    const url = window.URL.createObjectURL(blob);
+                    const a = document.createElement('a');
+                    a.style.display = 'none';
+                    a.href = url;
+                    a.download = 'career_guidance_report.pdf';
+                    document.body.appendChild(a);
+                    a.click();
+                    window.URL.revokeObjectURL(url);
+                })
+                .catch(error => {
+                    console.error('Error generating PDF:', error);
+                    alert('Sorry, there was an error generating your PDF report. Please try again later.');
+                });
+            }
+            
+            function addBotMessage(message, options = null) {
+                const messageElement = document.createElement('div');
+                messageElement.classList.add('message', 'message-bot', 'animate__animated', 'animate__fadeInLeft');
+                
+                messageElement.innerHTML = `
+                    <div>${message}</div>
+                    <div class="message-time">${getCurrentTime()}</div>
+                `;
+                
+                chatMessages.appendChild(messageElement);
+                
+                // If options are provided, add option buttons
+                if (options && Array.isArray(options)) {
+                    const optionsContainer = document.createElement('div');
+                    optionsContainer.classList.add('options-container');
+                    
+                    options.forEach(option => {
+                        const optionButton = document.createElement('button');
+                        optionButton.classList.add('option-button');
+                        optionButton.textContent = option;
+                        
+                        optionButton.addEventListener('click', function() {
+                            // Remove selected class from all options
+                            document.querySelectorAll('.option-button').forEach(btn => {
+                                btn.classList.remove('selected');
+                            });
+                            
+                            // Add selected class to clicked option
+                            this.classList.add('selected');
+                            
+                            // Enable send button
+                            sendBtn.disabled = false;
+                        });
+                        
+                        optionsContainer.appendChild(optionButton);
+                    });
+                    
+                    messageElement.appendChild(optionsContainer);
+                    
+                    // Disable text input when using options
+                    userInput.disabled = true;
+                } else {
+                    // Enable text input when not using options
+                    userInput.disabled = false;
+                    sendBtn.disabled = false;
+                    userInput.focus();
+                }
+                
+                // Scroll to bottom
+                scrollToBottom();
+            }
+            
+            function addUserMessage(message) {
+                const messageElement = document.createElement('div');
+                messageElement.classList.add('message', 'message-user', 'animate__animated', 'animate__fadeInRight');
+                
+                messageElement.innerHTML = `
+                    <div>${message}</div>
+                    <div class="message-time">${getCurrentTime()}</div>
+                `;
+                
+                chatMessages.appendChild(messageElement);
+                
+                // Scroll to bottom
+                scrollToBottom();
+            }
+            
+            function showTypingIndicator() {
+                const typingElement = document.createElement('div');
+                typingElement.id = 'typing-indicator';
+                typingElement.classList.add('message', 'message-bot', 'typing-indicator');
+                
+                typingElement.innerHTML = `
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                `;
+                
+                chatMessages.appendChild(typingElement);
+                scrollToBottom();
+            }
+            
+            function removeTypingIndicator() {
+                const typingIndicator = document.getElementById('typing-indicator');
+                if (typingIndicator) {
+                    typingIndicator.remove();
+                }
+            }
+            
+            function showLoadingAnimation() {
+                const loadingElement = document.createElement('div');
+                loadingElement.id = 'loading-animation';
+                loadingElement.classList.add('loading-container');
+                
+                loadingElement.innerHTML = `
+                    <div class="loader"><div></div><div></div><div></div><div></div></div>
+                    <div class="loading-text">Analyzing your responses...</div>
+                `;
+                
+                chatMessages.appendChild(loadingElement);
+                scrollToBottom();
+            }
+            
+            function removeLoadingAnimation() {
+                const loadingAnimation = document.getElementById('loading-animation');
+                if (loadingAnimation) {
+                    loadingAnimation.remove();
+                }
+            }
+            
+            function scrollToBottom() {
+                chatMessages.scrollTop = chatMessages.scrollHeight;
+            }
+            
+            function getCurrentTime() {
+                const now = new Date();
+                return now.toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' });
+            }
+        });
+    </script>
+    <script src="https://kit.fontawesome.com/a076d05399.js" crossorigin="anonymous"></script>
+</body>
+</html>
